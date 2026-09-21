@@ -1,0 +1,23 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "frontend/dist",
+  "framework": "vite",
+  "regions": ["iad1"],
+  "git": {
+    "deploymentEnabled": {
+      "main": true
+    }
+  },
+  "env": {
+    "VITE_API_URL": {
+      "description": "Backend API URL",
+      "default": "https://mushaf-id-api.vercel.app"
+    }
+  },
+  "functions": {
+    "backend/api/**": {
+      "maxDuration": 60,
+      "memory": 1024
+    }
+  }
+}
