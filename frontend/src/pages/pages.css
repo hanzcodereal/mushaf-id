@@ -1,0 +1,428 @@
+.page {
+  width: 100%;
+}
+
+.page-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.page-header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  color: var(--primary);
+}
+
+.app.dark .page-header h1 {
+  color: var(--accent);
+}
+
+.page-header p {
+  font-size: 1.1rem;
+  color: #666;
+}
+
+.app.dark .page-header p {
+  color: #aaa;
+}
+
+/* Search Box */
+.search-box {
+  margin-bottom: 2rem;
+  display: flex;
+  gap: 1rem;
+}
+
+.search-input {
+  flex: 1;
+  padding: 0.75rem 1rem;
+  border: 2px solid var(--border);
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+}
+
+.app.dark .search-input {
+  background: #2a2a2a;
+  border-color: var(--border-dark);
+  color: var(--text-dark);
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(45, 95, 79, 0.1);
+}
+
+.app.dark .search-input:focus {
+  box-shadow: 0 0 0 3px rgba(212, 165, 116, 0.2);
+}
+
+/* Grid Layouts */
+.surahs-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.ayahs-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+/* Surah Card */
+.surah-card {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.surah-number {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.surah-info {
+  flex: 1;
+}
+
+.surah-name {
+  font-size: 1.3rem;
+  margin-bottom: 0.25rem;
+  color: var(--primary);
+}
+
+.app.dark .surah-name {
+  color: var(--accent);
+}
+
+.surah-ar {
+  font-size: 1.2rem;
+  direction: rtl;
+  margin-bottom: 0.25rem;
+  color: #666;
+}
+
+.app.dark .surah-ar {
+  color: #aaa;
+}
+
+.surah-translation {
+  font-size: 0.95rem;
+  color: #666;
+}
+
+.app.dark .surah-translation {
+  color: #aaa;
+}
+
+.surah-meta {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+  font-size: 0.9rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--border);
+}
+
+.app.dark .surah-meta {
+  border-top-color: var(--border-dark);
+}
+
+.verse-count {
+  color: var(--primary);
+  font-weight: 500;
+}
+
+.surah-type {
+  color: #666;
+  font-style: italic;
+}
+
+.app.dark .surah-type {
+  color: #aaa;
+}
+
+/* Ayah Card */
+.ayah-card {
+  padding: 1.5rem;
+  border-left: 4px solid var(--primary);
+}
+
+.app.dark .ayah-card {
+  border-left-color: var(--accent);
+}
+
+.ayah-text-ar {
+  font-size: 1.4rem;
+  direction: rtl;
+  margin-bottom: 1rem;
+  line-height: 1.8;
+  color: #333;
+  text-align: right;
+}
+
+.app.dark .ayah-text-ar {
+  color: #e0e0e0;
+}
+
+.ayah-number {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: var(--accent);
+  color: white;
+  text-align: center;
+  line-height: 32px;
+  font-size: 0.85rem;
+  font-weight: bold;
+  margin: 0 0.5rem;
+}
+
+.ayah-text-id {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #555;
+  margin-bottom: 0.75rem;
+}
+
+.app.dark .ayah-text-id {
+  color: #ccc;
+}
+
+.ayah-transliteration {
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #999;
+  margin-top: 0.5rem;
+}
+
+.app.dark .ayah-transliteration {
+  color: #888;
+}
+
+.ayah-actions {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  justify-content: flex-end;
+}
+
+.action-btn {
+  background: transparent;
+  border: 1px solid var(--border);
+  padding: 0.5rem 1rem;
+  border-radius: 0.35rem;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.app.dark .action-btn {
+  border-color: var(--border-dark);
+  color: var(--text-dark);
+}
+
+.action-btn:hover {
+  background: var(--primary);
+  color: white;
+  border-color: var(--primary);
+}
+
+.action-btn.bookmarked {
+  background: var(--accent);
+  color: white;
+  border-color: var(--accent);
+}
+
+/* Hadith Card */
+.hadith-card {
+  cursor: pointer;
+}
+
+.hadith-title {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  color: var(--primary);
+}
+
+.app.dark .hadith-title {
+  color: var(--accent);
+}
+
+.hadith-meta {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+  color: #666;
+  flex-wrap: wrap;
+}
+
+.app.dark .hadith-meta {
+  color: #aaa;
+}
+
+.hadith-badge {
+  background: var(--accent);
+  color: white;
+  padding: 0.25rem 0.75rem;
+  border-radius: 0.25rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.hadith-text {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #555;
+  margin-bottom: 0.75rem;
+}
+
+.app.dark .hadith-text {
+  color: #ccc;
+}
+
+.hadith-text-ar {
+  direction: rtl;
+  text-align: right;
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+/* No Results */
+.no-results {
+  text-align: center;
+  padding: 2rem;
+  color: #666;
+  grid-column: 1 / -1;
+}
+
+.app.dark .no-results {
+  color: #aaa;
+}
+
+/* Back Button */
+.back-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+  background: none;
+  border: none;
+  color: var(--primary);
+  cursor: pointer;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+}
+
+.app.dark .back-btn {
+  color: var(--accent);
+}
+
+.back-btn:hover {
+  gap: 0.75rem;
+}
+
+/* Pagination */
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 2rem;
+}
+
+.pagination button {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--border);
+  background: white;
+  color: var(--text-light);
+  border-radius: 0.35rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.app.dark .pagination button {
+  background: #2a2a2a;
+  border-color: var(--border-dark);
+  color: var(--text-dark);
+}
+
+.pagination button:hover:not(:disabled) {
+  background: var(--primary);
+  color: white;
+  border-color: var(--primary);
+}
+
+.pagination button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.pagination .active {
+  background: var(--primary);
+  color: white;
+  border-color: var(--primary);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .surahs-grid {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1rem;
+  }
+
+  .page-header h1 {
+    font-size: 1.8rem;
+  }
+
+  .ayah-text-ar {
+    font-size: 1.2rem;
+  }
+
+  .search-box {
+    margin-bottom: 1.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .surahs-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .page-header h1 {
+    font-size: 1.5rem;
+  }
+
+  .page-header p {
+    font-size: 1rem;
+  }
+
+  .ayah-actions {
+    flex-direction: column;
+  }
+
+  .action-btn {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .hadith-meta {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}
