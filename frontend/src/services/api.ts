@@ -51,9 +51,12 @@ export interface PaginatedResponse<T> {
 class ApiClient {
   private client: AxiosInstance;
 
-  constructor(baseURL = '/api') {
+  constructor(baseURL?: string) {
+    // Use VITE_API_URL if provided, otherwise default to /api (for local dev)
+    const apiUrl = baseURL || import.meta.env.VITE_API_URL || '/api';
+    
     this.client = axios.create({
-      baseURL,
+      baseURL: apiUrl,
       headers: {
         'Content-Type': 'application/json',
       },
