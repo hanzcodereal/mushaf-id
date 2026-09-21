@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "surah_id": 1,
+    "verse_id": 1,
+    "juz_id": 1,
+    "text_ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+    "text_id": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.",
+    "transliteration": "Bismillāhir-raḥmānir-raḥīm(i)."
+  },
+  {
+    "id": 2,
+    "surah_id": 1,
+    "verse_id": 2,
+    "juz_id": 1,
+    "text_ar": "ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
+    "text_id": "Segala puji bagi Allah, Tuhan semesta alam",
+    "transliteration": "Al-ḥamdu lillāhi rabbil-‘ālamīn(a)."
+  },
+  {
+    "id": 3,
+    "surah_id": 1,
+    "verse_id": 3,
+    "juz_id": 1,
+    "text_ar": "ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+    "text_id": "Yang Maha Pengasih lagi Maha Penyayang,",
+    "transliteration": "Ar-raḥmānir-raḥīm(i)."
+  },
+  {
+    "id": 4,
+    "surah_id": 1,
+    "verse_id": 4,
+    "juz_id": 1,
+    "text_ar": "مَٰلِكِ يَوۡمِ ٱلدِّينِ",
+    "text_id": "Pemilik hari Pembalasan.",
+    "transliteration": "Māliki yaumid-dīn(i)."
+  },
+  {
+    "id": 5,
+    "surah_id": 1,
+    "verse_id": 5,
+    "juz_id": 1,
+    "text_ar": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
+    "text_id": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami memohon pertolongan.",
+    "transliteration": "Iyyāka na‘budu wa iyyāka nasta‘īn(u),"
+  },
+  {
+    "id": 6,
+    "surah_id": 1,
+    "verse_id": 6,
+    "juz_id": 1,
+    "text_ar": "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ",
+    "text_id": "Bimbinglah kami ke jalan yang lurus,",
+    "transliteration": "Ihdinaṣ-ṣirāṭal-mustaqīm(a)."
+  },
+  {
+    "id": 7,
+    "surah_id": 1,
+    "verse_id": 7,
+    "juz_id": 1,
+    "text_ar": "صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ",
+    "text_id": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) orang-orang yang sesat.",
+    "transliteration": "Ṣirāṭal-lażīna an‘amta ‘alaihim, gairil-magḍūbi ‘alaihim wa laḍ-ḍāllīn(a)."
+  },
+  {
+    "id": 8,
+    "surah_id": 2,
+    "verse_id": 1,
+    "juz_id": 1,
+    "text_ar": "الٓمٓ",
+    "text_id": "Alif Lām Mīm.",
+    "transliteration": "Alif lām mīm."
+  },
+  {
+    "id": 9,
+    "surah_id": 2,
+    "verse_id": 2,
+    "juz_id": 1,
+    "text_ar": "ذَٰلِكَ ٱلۡكِتَٰبُ لَا رَيۡبَۛ فِيهِۛ هُدٗى لِّلۡمُتَّقِينَ",
+    "text_id": "Kitab (Al-Qur’an) ini tidak ada keraguan di dalamnya; (ia merupakan) petunjuk bagi orang-orang yang bertakwa,",
+    "transliteration": "Żālikal-kitābu lā raiba fīh(i), hudal lil-muttaqīn(a)."
+  },
+  {
+    "id": 10,
+    "surah_id": 2,
+    "verse_id": 3,
+    "juz_id": 1,
+    "text_ar": "ٱلَّذِينَ يُؤۡمِنُونَ بِٱلۡغَيۡبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
+    "text_id": "(yaitu) orang-orang yang beriman pada yang gaib, menegakkan salat, dan menginfakkan sebagian rezeki yang Kami anugerahkan kepada mereka,",
+    "transliteration": "Al-lażīna yu'minūna bil-gaibi wa yuqīmūnaṣ-ṣalāta wa mimmā razaqnāhum yunfiqūn(a)."
+  },
+  {
+    "id": 11,
+    "surah_id": 2,
+    "verse_id": 4,
+    "juz_id": 1,
+    "text_ar": "وَٱلَّذِينَ يُؤۡمِنُونَ بِمَآ أُنزِلَ إِلَيۡكَ وَمَآ أُنزِلَ مِن قَبۡلِكَ وَبِٱلۡأٓخِرَةِ هُمۡ يُوقِنُونَ",
+    "text_id": "dan mereka yang beriman pada (Al-Qur’an) yang diturunkan kepadamu (Nabi Muhammad) dan (kitab-kitab suci) yang telah diturunkan sebelum engkau dan mereka yakin akan adanya akhirat.",
+    "transliteration": "Wal-lażīna yu'minūna bimā unzila ilaika wa mā unzila min qablik(a), wabil-ākhirati hum yūqinūn(a)."
+  },
+  {
+    "id": 12,
+    "surah_id": 2,
+    "verse_id": 5,
+    "juz_id": 1,
+    "text_ar": "أُوْلَـٰٓئِكَ عَلَىٰ هُدٗى مِّن رَّبِّهِمۡۖ وَأُوْلَـٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
+    "text_id": "Merekalah yang mendapat petunjuk dari Tuhannya dan mereka itulah orang-orang yang beruntung.",
+    "transliteration": "Ulā'ika ‘alā hudam mir rabbihim wa ulā'ika humul-mufliḥūn(a)."
+  },
+  {
+    "id": 13,
+    "surah_id": 2,
+    "verse_id": 6,
+    "juz_id": 1,
+    "text_ar": "إِنَّ ٱلَّذِينَ كَفَرُواْ سَوَآءٌ عَلَيۡهِمۡ ءَأَنذَرۡتَهُمۡ أَمۡ لَمۡ تُنذِرۡهُمۡ لَا يُؤۡمِنُونَ",
+    "text_id": "Sesungguhnya orang-orang yang kufur itu sama saja bagi mereka, apakah engkau (Nabi Muhammad) beri peringatan atau tidak engkau beri peringatan, mereka tidak akan beriman.",
+    "transliteration": "Innal-lażīna kafarū sawā'un ‘alaihim a'anżartahum am lam tunżirhum lā yu'minūn(a)."
+  },
+  {
+    "id": 14,
+    "surah_id": 2,
+    "verse_id": 7,
+    "juz_id": 1,
+    "text_ar": "خَتَمَ ٱللَّهُ عَلَىٰ قُلُوبِهِمۡ وَعَلَىٰ سَمۡعِهِمۡۖ وَعَلَىٰٓ أَبۡصَٰرِهِمۡ غِشَٰوَةٞۖ وَلَهُمۡ عَذَابٌ عَظِيمٞ",
+    "text_id": "Allah telah mengunci hati dan pendengaran mereka. Pada penglihatan mereka ada penutup, dan bagi mereka azab yang sangat berat.",
+    "transliteration": "Khatamallāhu ‘alā qulūbihim wa ‘alā sam‘ihim wa ‘alā abṣārihim gisyāwatuw wa lahum ‘ażābun ‘aẓīm(un)."
+  },
+  {
+    "id": 15,
+    "surah_id": 2,
+    "verse_id": 8,
+    "juz_id": 1,
+    "text_ar": "وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ وَبِٱلۡيَوۡمِ ٱلۡأٓخِرِ وَمَا هُم بِمُؤۡمِنِينَ",
+    "text_id": "Di antara manusia ada yang berkata, “Kami beriman kepada Allah dan hari Akhir,” padahal sesungguhnya mereka itu bukanlah orang-orang mukmin.",
+    "transliteration": "Wa minan-nāsi may yaqūlu āmannā billāhi wa bil-yaumil-ākhiri wa mā hum bimu'minīn(a)."
+  },
+  {
+    "id": 16,
+    "surah_id": 2,
+    "verse_id": 9,
+    "juz_id": 1,
+    "text_ar": "يُخَٰدِعُونَ ٱللَّهَ وَٱلَّذِينَ ءَامَنُواْ وَمَا يَخۡدَعُونَ إِلَّآ أَنفُسَهُمۡ وَمَا يَشۡعُرُونَ",
+    "text_id": "Mereka menipu Allah dan orang-orang yang beriman, padahal mereka hanyalah menipu diri sendiri tanpa mereka sadari.",
+    "transliteration": "Yukhādi‘ūnallāha wal-lażīna āmanū wa mā yakhda‘ūna illā anfusahum wa mā yasy‘urūn(a)."
+  },
+  {
+    "id": 17,
+    "surah_id": 2,
+    "verse_id": 10,
+    "juz_id": 1,
+    "text_ar": "فِي قُلُوبِهِم مَّرَضٞ فَزَادَهُمُ ٱللَّهُ مَرَضٗاۖ وَلَهُمۡ عَذَابٌ أَلِيمُۢ بِمَا كَانُواْ يَكۡذِبُونَ",
+    "text_id": "Dalam hati mereka ada penyakit, lalu Allah menambah penyakitnya dan mereka mendapat azab yang sangat pedih karena mereka selalu berdusta.",
+    "transliteration": "Fī qulūbihim maraḍun fa zādahumullāhu maraḍā(n), wa lahum ‘ażābun alīmum bimā kānū yakżibūn(a)."
+  },
+  {
+    "id": 18,
+    "surah_id": 2,
+    "verse_id": 11,
+    "juz_id": 1,
+    "text_ar": "وَإِذَا قِيلَ لَهُمۡ لَا تُفۡسِدُواْ فِي ٱلۡأَرۡضِ قَالُوٓاْ إِنَّمَا نَحۡنُ مُصۡلِحُونَ",
+    "text_id": "Apabila dikatakan kepada mereka, “Janganlah berbuat kerusakan di bumi,” mereka menjawab, “Sesungguhnya kami hanyalah orang-orang yang melakukan perbaikan.”",
+    "transliteration": "Wa iżā qīla lahum lā tufsidū fil-arḍ(i), qālū innamā naḥnu muṣliḥūn(a)."
+  },
+  {
+    "id": 19,
+    "surah_id": 2,
+    "verse_id": 12,
+    "juz_id": 1,
+    "text_ar": "أَلَآ إِنَّهُمۡ هُمُ ٱلۡمُفۡسِدُونَ وَلَٰكِن لَّا يَشۡعُرُونَ",
+    "text_id": "Ingatlah, sesungguhnya merekalah yang berbuat kerusakan, tetapi mereka tidak menyadari.",
+    "transliteration": "Alā innahum humul-mufsidūna wa lākil lā yasy‘urūn(a)."
+  },
+  {
+    "id": 20,
+    "surah_id": 2,
+    "verse_id": 13,
+    "juz_id": 1,
+    "text_ar": "وَإِذَا قِيلَ لَهُمۡ ءَامِنُواْ كَمَآ ءَامَنَ ٱلنَّاسُ قَالُوٓاْ أَنُؤۡمِنُ كَمَآ ءَامَنَ ٱلسُّفَهَآءُۗ أَلَآ إِنَّهُمۡ هُمُ ٱلسُّفَهَآءُ وَلَٰكِن لَّا يَعۡلَمُونَ",
+    "text_id": "Apabila dikatakan kepada mereka, “Berimanlah kamu sebagaimana orang lain telah beriman,” mereka menjawab, “Apakah kami akan beriman seperti orang-orang yang picik akalnya itu beriman?” Ingatlah, sesungguhnya mereka itulah orang-orang yang picik akalnya, tetapi mereka tidak tahu.",
+    "transliteration": "Wa iżā qīla lahum āminū kamā āmanan nāsu qālū anu'minu kamā āmanas-sufahā'(u), alā innahum humus-sufahā'u wa lākil lā ya‘lamūn(a)."
+  },
+  {
+    "id": 21,
+    "surah_id": 2,
+    "verse_id": 14,
+    "juz_id": 1,
+    "text_ar": "وَإِذَا لَقُواْ ٱلَّذِينَ ءَامَنُواْ قَالُوٓاْ ءَامَنَّا وَإِذَا خَلَوۡاْ إِلَىٰ شَيَٰطِينِهِمۡ قَالُوٓاْ إِنَّا مَعَكُمۡ إِنَّمَا نَحۡنُ مُسۡتَهۡزِءُونَ",
+    "text_id": "Apabila mereka berjumpa dengan orang yang beriman, mereka berkata, “Kami telah beriman.” Akan tetapi apabila mereka menyendiri dengan setan-setan (para pemimpin) mereka, mereka berkata, “Sesungguhnya kami bersama kamu, kami hanya pengolok-olok.”",
+    "transliteration": "Wa iżā laqul-lażīna āmanū qālū āmannā, wa iżā khalau ilā syayāṭīnihim qālū innā ma‘akum, innamā naḥnu mustahzi'ūn(a)."
+  },
+  {
+    "id": 22,
+    "surah_id": 2,
+    "verse_id": 15,
+    "juz_id": 1,
+    "text_ar": "ٱللَّهُ يَسۡتَهۡزِئُ بِهِمۡ وَيَمُدُّهُمۡ فِي طُغۡيَٰنِهِمۡ يَعۡمَهُونَ",
+    "text_id": "Allah akan memperolok-olokkan dan membiarkan mereka terombang-ambing dalam kesesatan.",
+    "transliteration": "Allāhu yastahzi'u bihim wa yamudduhum fī ṭugyānihim ya‘mahūn(a)."
+  },
+  {
+    "id": 23,
+    "surah_id": 2,
+    "verse_id": 16,
+    "juz_id": 1,
+    "text_ar": "أُوْلَـٰٓئِكَ ٱلَّذِينَ ٱشۡتَرَوُاْ ٱلضَّلَٰلَةَ بِٱلۡهُدَىٰ فَمَا رَبِحَت تِّجَٰرَتُهُمۡ وَمَا كَانُواْ مُهۡتَدِينَ",
+    "text_id": "Mereka itulah orang-orang yang membeli kesesatan dengan petunjuk. Maka, tidaklah beruntung perniagaannya dan mereka bukanlah orang-orang yang mendapatkan petunjuk.",
+    "transliteration": "Ulā'ikal-lażīnasytarawuḍ-ḍalālata bil-hudā, famā rabiḥat tijāratuhum wa mā kānū muhtadīn(a)."
+  },
+  {
+    "id": 24,
+    "surah_id": 2,
+    "verse_id": 17,
+    "juz_id": 1,
+    "text_ar": "مَثَلُهُمۡ كَمَثَلِ ٱلَّذِي ٱسۡتَوۡقَدَ نَارٗا فَلَمَّآ أَضَآءَتۡ مَا حَوۡلَهُۥ ذَهَبَ ٱللَّهُ بِنُورِهِمۡ وَتَرَكَهُمۡ فِي ظُلُمَٰتٖ لَّا يُبۡصِرُونَ",
+    "text_id": "Perumpamaan mereka seperti orang yang menyalakan api. Setelah (api itu) menerangi sekelilingnya, Allah melenyapkan cahaya (yang menyinari) mereka dan membiarkan mereka dalam kegelapan, tidak dapat melihat.",
+    "transliteration": "Maṡaluhum kamaṡalil-lażistauqada nārā(n), falammā aḍā'at mā ḥaulahūū  żahaballāhu binūrihim wa tarakahum fī ẓulumātil lā yubṣirūn(a)."
+  },
+  {
+    "id": 25,
+    "surah_id": 2,
+    "verse_id": 18,
+    "juz_id": 1,
+    "text_ar": "صُمُّۢ بُكۡمٌ عُمۡيٞ فَهُمۡ لَا يَرۡجِعُونَ",
+    "text_id": "(Mereka) tuli, bisu, lagi buta, sehingga mereka tidak dapat kembali.",
+    "transliteration": "Ṣummum bukmun ‘umyun fahum lā yarji‘ūn(a)."
+  },
+  {
+    "id": 26,
+    "surah_id": 2,
+    "verse_id": 19,
+    "juz_id": 1,
+    "text_ar": "أَوۡ كَصَيِّبٖ مِّنَ ٱلسَّمَآءِ فِيهِ ظُلُمَٰتٞ وَرَعۡدٞ وَبَرۡقٞ يَجۡعَلُونَ أَصَٰبِعَهُمۡ فِيٓ ءَاذَانِهِم مِّنَ ٱلصَّوَٰعِقِ حَذَرَ ٱلۡمَوۡتِۚ وَٱللَّهُ مُحِيطُۢ بِٱلۡكَٰفِرِينَ",
+    "text_id": "Atau, seperti (orang yang ditimpa) hujan lebat dari langit yang disertai berbagai kegelapan, petir, dan kilat. Mereka menyumbat telinga dengan jari-jarinya (untuk menghindari) suara petir itu karena takut mati. Allah meliputi orang-orang yang kafir.",
+    "transliteration": "Au kaṣayyibim minas-samā'i fīhi ẓulumātuw wa ra‘duw wa barq(un), yaj‘alūna aṣābi‘ahum fī āżānihim minaṣ-ṣawā‘iqi ḥażaral-maut(i), wallāhu muḥīṭum bil- kāfirīn(a)."
+  },
+  {
+    "id": 27,
+    "surah_id": 2,
+    "verse_id": 20,
+    "juz_id": 1,
+    "text_ar": "يَكَادُ ٱلۡبَرۡقُ يَخۡطَفُ أَبۡصَٰرَهُمۡۖ كُلَّمَآ أَضَآءَ لَهُم مَّشَوۡاْ فِيهِ وَإِذَآ أَظۡلَمَ عَلَيۡهِمۡ قَامُواْۚ وَلَوۡ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمۡعِهِمۡ وَأَبۡصَٰرِهِمۡۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+    "text_id": "Hampir saja kilat itu menyambar penglihatan mereka. Setiap kali (kilat itu) menyinari, mereka berjalan di bawah (sinar) itu. Apabila gelap menerpa mereka, mereka berdiri (tidak bergerak). Sekiranya Allah menghendaki, niscaya Dia menghilangkan pendengaran dan penglihatan mereka. Sesungguhnya Allah Maha Kuasa atas segala sesuatu.",
+    "transliteration": "Yakādul-barqu yakhṭafu abṣārahum, kullamā aḍā'a lahum masyau fīh(i), wa iżā aẓlama ‘alaihim qāmū, wa lau syā'allāhu lażahaba bisam‘ihim wa abṣārihim, innallāha ‘alā kulli syai'in qadīr(un)."
+  },
+  {
+    "id": 28,
+    "surah_id": 2,
+    "verse_id": 21,
+    "juz_id": 1,
+    "text_ar": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱعۡبُدُواْ رَبَّكُمُ ٱلَّذِي خَلَقَكُمۡ وَٱلَّذِينَ مِن قَبۡلِكُمۡ لَعَلَّكُمۡ تَتَّقُونَ",
+    "text_id": "Wahai manusia, sembahlah Tuhanmu yang telah menciptakan kamu dan orang-orang yang sebelum kamu agar kamu bertakwa.",
+    "transliteration": "Yā ayyuhan-nāsu‘budū rabbakumul-lażī khalaqakum wal-lażīna min qablikum la‘allakum tattaqūn(a)."
+  },
+  {
+    "id": 29,
+    "surah_id": 2,
+    "verse_id": 22,
+    "juz_id": 1,
+    "text_ar": "ٱلَّذِي جَعَلَ لَكُمُ ٱلۡأَرۡضَ فِرَٰشٗا وَٱلسَّمَآءَ بِنَآءٗ وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَأَخۡرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزۡقٗا لَّكُمۡۖ فَلَا تَجۡعَلُواْ لِلَّهِ أَندَادٗا وَأَنتُمۡ تَعۡلَمُونَ",
+    "text_id": "(Dialah) yang menjadikan bagimu bumi (sebagai) hamparan dan langit sebagai atap, dan Dialah yang menurunkan air (hujan) dari langit, lalu Dia menghasilkan dengan (hujan) itu buah-buahan sebagai rezeki untuk kamu. Oleh karena itu, janganlah kamu mengadakan tandingan-tandingan bagi Allah, padahal kamu mengetahui.",
+    "transliteration": "Allażī ja‘ala lakumul-arḍa firāsyaw was-samā'a binā'ā(n), wa anzala minas-samā'i mā'an fa akhraja bihī minaṡ-ṡamarāti rizqal lakum, falā taj‘alū lillāhi andādaw wa antum ta‘lamūn(a)."
+  },
+  {
+    "id": 30,
+    "surah_id": 2,
+    "verse_id": 23,
+    "juz_id": 1,
+    "text_ar": "وَإِن كُنتُمۡ فِي رَيۡبٖ مِّمَّا نَزَّلۡنَا عَلَىٰ عَبۡدِنَا فَأۡتُواْ بِسُورَةٖ مِّن مِّثۡلِهِۦ وَٱدۡعُواْ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمۡ صَٰدِقِينَ",
+    "text_id": "Jika kamu (tetap) dalam keraguan tentang apa (Al-Qur’an) yang Kami turunkan kepada hamba Kami (Nabi Muhammad), buatlah satu surah yang semisal dengannya dan ajaklah penolong-penolongmu selain Allah, jika kamu orang-orang yang benar.",
+    "transliteration": "Wa in kuntum fī raibim mimmā nazzalnā ‘alā ‘abdinā fa'tū bisūratim mim miṡlih(ī), wad‘ū syuhadā'akum min dūnillāhi in kuntum ṣādiqīn(a)."
+  },
+  {
+    "id": 31,
+    "surah_id": 2,
+    "verse_id": 24,
+    "juz_id": 1,
+    "text_ar": "فَإِن لَّمۡ تَفۡعَلُواْ وَلَن تَفۡعَلُواْ فَٱتَّقُواْ ٱلنَّارَ ٱلَّتِي وَقُودُهَا ٱلنَّاسُ وَٱلۡحِجَارَةُۖ أُعِدَّتۡ لِلۡكَٰفِرِينَ",
+    "text_id": "Jika kamu tidak (mampu) membuat(-nya) dan (pasti) kamu tidak akan (mampu) membuat(-nya), takutlah pada api neraka yang bahan bakarnya adalah manusia dan batu yang disediakan bagi orang-orang kafir.",
+    "transliteration": "Fa'illam taf‘alū wa lan taf‘alū fattaqun-nāral-latī waqūduhan-nāsu wal-ḥijārah(tu), u‘iddat lil-kāfirīn(a)."
+  },
+  {
+    "id": 32,
+    "surah_id": 2,
+    "verse_id": 25,
+    "juz_id": 1,
+    "text_ar": "وَبَشِّرِ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ أَنَّ لَهُمۡ جَنَّـٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۖ كُلَّمَا رُزِقُواْ مِنۡهَا مِن ثَمَرَةٖ رِّزۡقٗا قَالُواْ هَٰذَا ٱلَّذِي رُزِقۡنَا مِن قَبۡلُۖ وَأُتُواْ بِهِۦ مُتَشَٰبِهٗاۖ وَلَهُمۡ فِيهَآ أَزۡوَٰجٞ مُّطَهَّرَةٞۖ وَهُمۡ فِيهَا خَٰلِدُونَ",
+    "text_id": "Sampaikanlah kabar gembira kepada orang-orang yang beriman dan beramal saleh bahwa untuk mereka (disediakan) surga-surga yang di bawahnya mengalir sungai-sungai. Setiap kali diberi rezeki buah-buahan darinya, mereka berkata, “Inilah rezeki yang diberikan kepada kami sebelumnya.” Mereka telah diberi (buah-buahan) yang serupa dan di sana mereka (memperoleh) pasangan-pasangan yang disucikan. Mereka kekal di dalamnya.",
+    "transliteration": "Wa basysyiril-lażīna āmanū wa ‘amiluṣ-ṣāliḥāti anna lahum jannātin tajrī min taḥtihal- anhār(u), kullamā ruziqū minhā min ṡamaratir rizqā(n), qālū hāżal-lażī ruziqnā min qablu wa utū bihī mutasyābihā(n), wa lahum fīhā azwājum muṭahharatuw wa hum fīhā khālidūn(a)."
+  },
+  {
+    "id": 33,
+    "surah_id": 2,
+    "verse_id": 26,
+    "juz_id": 1,
+    "text_ar": "۞إِنَّ ٱللَّهَ لَا يَسۡتَحۡيِۦٓ أَن يَضۡرِبَ مَثَلٗا مَّا بَعُوضَةٗ فَمَا فَوۡقَهَاۚ فَأَمَّا ٱلَّذِينَ ءَامَنُواْ فَيَعۡلَمُونَ أَنَّهُ ٱلۡحَقُّ مِن رَّبِّهِمۡۖ وَأَمَّا ٱلَّذِينَ كَفَرُواْ فَيَقُولُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلٗاۘ يُضِلُّ بِهِۦ كَثِيرٗا وَيَهۡدِي بِهِۦ كَثِيرٗاۚ وَمَا يُضِلُّ بِهِۦٓ إِلَّا ٱلۡفَٰسِقِينَ",
+    "text_id": "Sesungguhnya Allah tidak segan membuat perumpamaan seekor nyamuk atau yang lebih kecil daripada itu. Adapun orang-orang yang beriman mengetahui bahwa itu kebenaran dari Tuhannya. Akan tetapi, orang-orang kafir berkata, “Apa maksud Allah dengan perumpamaan ini?” Dengan (perumpamaan) itu banyak orang yang disesatkan-Nya. Dengan itu pula banyak orang yang diberi-Nya petunjuk. Namun, tidak ada yang Dia sesatkan dengan (perumpamaan) itu, selain orang-orang fasik,",
+    "transliteration": "Innallāha lā yastaḥyī ay yaḍriba maṡalam mā ba‘ūḍatan famā fauqahā, fa'ammal- lażīna āmanū faya‘lamūna annahul-ḥaqqu mir rabbihim, wa ammal-lażīna kafarū fayaqūlūna māżā arādallāhu bihāżā maṡalā(n), yuḍillu bihī kaṡīraw wa yahdī bihī kaṡīrā(n), wa mā yuḍillu bihī illal-fāsiqīn(a)."
+  },
+  {
+    "id": 34,
+    "surah_id": 2,
+    "verse_id": 27,
+    "juz_id": 1,
+    "text_ar": "ٱلَّذِينَ يَنقُضُونَ عَهۡدَ ٱللَّهِ مِنۢ بَعۡدِ مِيثَٰقِهِۦ وَيَقۡطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيُفۡسِدُونَ فِي ٱلۡأَرۡضِۚ أُوْلَـٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ",
+    "text_id": "(yaitu) orang-orang yang melanggar perjanjian Allah setelah (perjanjian) itu diteguhkan, memutuskan apa yang diperintahkan Allah untuk disambungkan (silaturahmi), dan berbuat kerusakan di bumi. Mereka itulah orang-orang yang rugi.",
+    "transliteration": "Allażīna yanquḍūna ‘ahdallāhi mim ba‘di mīṡāqih(ī), wa yaqṭa‘ūna mā amarallāhu bihī ay yūṣala wa yufsidūna fil-arḍ(i), ulā'ika humul-khāsirūn(a)."
+  },
+  {
+    "id": 35,
+    "surah_id": 2,
+    "verse_id": 28,
+    "juz_id": 1,
+    "text_ar": "كَيۡفَ تَكۡفُرُونَ بِٱللَّهِ وَكُنتُمۡ أَمۡوَٰتٗا فَأَحۡيَٰكُمۡۖ ثُمَّ يُمِيتُكُمۡ ثُمَّ يُحۡيِيكُمۡ ثُمَّ إِلَيۡهِ تُرۡجَعُونَ",
+    "text_id": "Bagaimana kamu ingkar kepada Allah, padahal kamu (tadinya) mati, lalu Dia menghidupkan kamu, kemudian Dia akan mematikan kamu, Dia akan menghidupkan kamu kembali, dan kepada-Nyalah kamu dikembalikan?",
+    "transliteration": "Kaifa takfurūna billāhi wa kuntum amwātan fa'aḥyākum, ṡumma yumītukum ṡumma yuḥyīkum ṡumma ilaihi turja‘ūn(a)."
+  },
+  {
+    "id": 36,
+    "surah_id": 2,
+    "verse_id": 29,
+    "juz_id": 1,
+    "text_ar": "هُوَ ٱلَّذِي خَلَقَ لَكُم مَّا فِي ٱلۡأَرۡضِ جَمِيعٗا ثُمَّ ٱسۡتَوَىٰٓ إِلَى ٱلسَّمَآءِ فَسَوَّىٰهُنَّ سَبۡعَ سَمَٰوَٰتٖۚ وَهُوَ بِكُلِّ شَيۡءٍ عَلِيمٞ",
+    "text_id": "Dialah (Allah) yang menciptakan segala yang ada di bumi untukmu, kemudian Dia menuju ke langit, lalu Dia menyempurnakannya menjadi tujuh langit. Dia Maha Mengetahui segala sesuatu.",
+    "transliteration": "Huwal-lażī khalaqa lakum mā fil-arḍi jamī‘ā(n), ṡummastawā ilas-samā'i fasawwāhunna sab‘a samāwāt(in), wa huwa bikulli syai'in ‘alīm(un)."
+  },
+  {
+    "id": 37,
+    "surah_id": 2,
+    "verse_id": 30,
+    "juz_id": 1,
+    "text_ar": "وَإِذۡ قَالَ رَبُّكَ لِلۡمَلَـٰٓئِكَةِ إِنِّي جَاعِلٞ فِي ٱلۡأَرۡضِ خَلِيفَةٗۖ قَالُوٓاْ أَتَجۡعَلُ فِيهَا مَن يُفۡسِدُ فِيهَا وَيَسۡفِكُ ٱلدِّمَآءَ وَنَحۡنُ نُسَبِّحُ بِحَمۡدِكَ وَنُقَدِّسُ لَكَۖ قَالَ إِنِّيٓ أَعۡلَمُ مَا لَا تَعۡلَمُونَ",
+    "text_id": "(Ingatlah) ketika Tuhanmu berfirman kepada para malaikat, “Aku hendak menjadikan khalifah di bumi.” Mereka berkata, “Apakah Engkau hendak menjadikan orang yang merusak dan menumpahkan darah di sana, sedangkan kami bertasbih memuji-Mu dan menyucikan nama-Mu?” Dia berfirman, “Sesungguhnya Aku mengetahui apa yang tidak kamu ketahui.”",
+    "transliteration": "Wa iż qāla rabbuka lil-malā'ikati innī jā‘ilun fil-arḍi khalīfah(tan), qālū ataj‘alu fīhā may yufsidu fīhā wa yasfikud-dimā'(a), wa naḥnu nusabbiḥu biḥamdika wa nuqaddisu lak(a), qāla innī a‘lamu mā lā ta‘lamūn(a)."
+  },
+  {
+    "id": 38,
+    "surah_id": 2,
+    "verse_id": 31,
+    "juz_id": 1,
+    "text_ar": "وَعَلَّمَ ءَادَمَ ٱلۡأَسۡمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمۡ عَلَى ٱلۡمَلَـٰٓئِكَةِ فَقَالَ أَنۢبِـُٔونِي بِأَسۡمَآءِ هَـٰٓؤُلَآءِ إِن كُنتُمۡ صَٰدِقِينَ",
+    "text_id": "Dia mengajarkan kepada Adam nama-nama (benda) seluruhnya, kemudian Dia memperlihatkannya kepada para malaikat, seraya berfirman, “Sebutkan kepada-Ku nama-nama (benda) ini jika kamu benar!”",
+    "transliteration": "Wa ‘allama ādamal-asmā'a kullahā ṡumma ‘araḍahum ‘alal-malā'ikati faqāla ambi'ūnī bi'asmā'i hā'ulā'i in kuntum ṣādiqīn(a)."
+  },
+  {
+    "id": 39,
+    "surah_id": 2,
+    "verse_id": 32,
+    "juz_id": 1,
+    "text_ar": "قَالُواْ سُبۡحَٰنَكَ لَا عِلۡمَ لَنَآ إِلَّا مَا عَلَّمۡتَنَآۖ إِنَّكَ أَنتَ ٱلۡعَلِيمُ ٱلۡحَكِيمُ",
+    "text_id": "Mereka menjawab, “Maha Suci Engkau. Tidak ada pengetahuan bagi kami, selain yang telah Engkau ajarkan kepada kami. Sesungguhnya Engkaulah Yang Maha Mengetahui lagi Maha Bijaksana.”",
+    "transliteration": "Qālū subḥānaka lā ‘ilma lanā illā mā ‘allamtanā, innaka antal-‘alīmul-ḥakīm(u)."
+  },
+  {
+    "id": 40,
+    "surah_id": 2,
+    "verse_id": 33,
+    "juz_id": 1,
+    "text_ar": "قَالَ يَـٰٓـَٔادَمُ أَنۢبِئۡهُم بِأَسۡمَآئِهِمۡۖ فَلَمَّآ أَنۢبَأَهُم بِأَسۡمَآئِهِمۡ قَالَ أَلَمۡ أَقُل لَّكُمۡ إِنِّيٓ أَعۡلَمُ غَيۡبَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَأَعۡلَمُ مَا تُبۡدُونَ وَمَا كُنتُمۡ تَكۡتُمُونَ",
+    "text_id": "Dia (Allah) berfirman, “Wahai Adam, beri tahukanlah kepada mereka nama-nama benda itu!” Setelah dia (Adam) menyebutkan nama-nama itu, Dia berfirman, “Bukankah telah Kukatakan kepadamu bahwa Aku mengetahui rahasia langit dan bumi, dan Aku mengetahui apa yang kamu nyatakan dan apa yang selalu kamu sembunyikan?”",
+    "transliteration": "Qāla yā ādamu ambi'hum bi'asmā'ihim, falammā amba'ahum bi'asmā'ihim, qāla alam aqul lakum innī a‘lamu gaibas-samāwāti wal-arḍ(i), wa a‘lamu mā tubdūna wa mā kuntum taktumūn(a)."
+  },
+  {
+    "id": 41,
+    "surah_id": 2,
+    "verse_id": 34,
+    "juz_id": 1,
+    "text_ar": "وَإِذۡ قُلۡنَا لِلۡمَلَـٰٓئِكَةِ ٱسۡجُدُواْ لِأٓدَمَ فَسَجَدُوٓاْ إِلَّآ إِبۡلِيسَ أَبَىٰ وَٱسۡتَكۡبَرَ وَكَانَ مِنَ ٱلۡكَٰفِرِينَ",
+    "text_id": "(Ingatlah) ketika Kami berfirman kepada para malaikat, “Sujudlah kamu kepada Adam!” Maka, mereka pun sujud, kecuali Iblis. Ia menolaknya dan menyombongkan diri, dan ia termasuk golongan kafir.",
+    "transliteration": "Wa iż qulnā lil-malā'ikatisjudū li ādama fasajadū illā iblīs(a), abā wastakbara wa kāna minal-kāfirīn(a)."
+  },
+  {
+    "id": 42,
+    "surah_id": 2,
+    "verse_id": 35,
+    "juz_id": 1,
+    "text_ar": "وَقُلۡنَا يَـٰٓـَٔادَمُ ٱسۡكُنۡ أَنتَ وَزَوۡجُكَ ٱلۡجَنَّةَ وَكُلَا مِنۡهَا رَغَدًا حَيۡثُ شِئۡتُمَا وَلَا تَقۡرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّـٰلِمِينَ",
+    "text_id": "Kami berfirman, “Wahai Adam, tinggallah engkau dan istrimu di dalam surga, makanlah dengan nikmat (berbagai makanan) yang ada di sana sesukamu, dan janganlah kamu dekati pohon ini, sehingga kamu termasuk orang-orang zalim!”",
+    "transliteration": "Wa qulnā yā ādamuskun anta wa zaujukal-jannata wa kulā minhā ragadan ḥaiṡu syi'tumā,  wa lā taqrabā hāżihisy-syajarata fa takūnā minaẓ-ẓālimīn(a)."
+  },
+  {
+    "id": 43,
+    "surah_id": 2,
+    "verse_id": 36,
+    "juz_id": 1,
+    "text_ar": "فَأَزَلَّهُمَا ٱلشَّيۡطَٰنُ عَنۡهَا فَأَخۡرَجَهُمَا مِمَّا كَانَا فِيهِۖ وَقُلۡنَا ٱهۡبِطُواْ بَعۡضُكُمۡ لِبَعۡضٍ عَدُوّٞۖ وَلَكُمۡ فِي ٱلۡأَرۡضِ مُسۡتَقَرّٞ وَمَتَٰعٌ إِلَىٰ حِينٖ",
+    "text_id": "Lalu, setan menggelincirkan keduanya darinya sehingga keduanya dikeluarkan dari segala kenikmatan ketika keduanya ada di sana (surga). Kami berfirman, “Turunlah kamu! Sebagian kamu menjadi musuh bagi yang lain serta bagi kamu ada tempat tinggal dan kesenangan di bumi sampai waktu yang ditentukan.”",
+    "transliteration": "Fa'azallahumasy-syaiṭānu ‘anhā fa akhrajahumā mimmā kānā fīh(i), wa qulnahbiṭū ba‘ḍukum liba‘ḍin ‘aduww(un), wa lakum fil-arḍi mustaqarruw wa matā‘un ilā ḥīn(in)."
+  },
+  {
+    "id": 44,
+    "surah_id": 2,
+    "verse_id": 37,
+    "juz_id": 1,
+    "text_ar": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَٰتٖ فَتَابَ عَلَيۡهِۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+    "text_id": "Kemudian, Adam menerima beberapa kalimat dari Tuhannya, lalu Dia pun menerima tobatnya. Sesungguhnya Dialah Yang Maha Penerima tobat lagi Maha Penyayang.",
+    "transliteration": "Fatalaqqā ādamu mir rabbihī kalimātin fatāba ‘alaih(i), innahū huwat-tawwābur- raḥīm(u)."
+  },
+  {
+    "id": 45,
+    "surah_id": 2,
+    "verse_id": 38,
+    "juz_id": 1,
+    "text_ar": "قُلۡنَا ٱهۡبِطُواْ مِنۡهَا جَمِيعٗاۖ فَإِمَّا يَأۡتِيَنَّكُم مِّنِّي هُدٗى فَمَن تَبِعَ هُدَايَ فَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
+    "text_id": "Kami berfirman, “Turunlah kamu semua dari surga! Lalu, jika benar-benar datang petunjuk-Ku kepadamu, siapa saja yang mengikuti petunjuk-Ku tidak ada rasa takut yang menimpa mereka dan mereka pun tidak bersedih hati.”",
+    "transliteration": "Qulnahbiṭū minhā jamī‘ā(n), fa'immā ya'tiyannakum minnī hudan faman tabi‘a hudāya falā khaufun ‘alaihim wa lā hum yaḥzanūn(a)."
+  },
+  {
+    "id": 46,
+    "surah_id": 2,
+    "verse_id": 39,
+    "juz_id": 1,
+    "text_ar": "وَٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَٰتِنَآ أُوْلَـٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ",
+    "text_id": "(Sementara itu,) orang-orang yang mengingkari dan mendustakan ayat-ayat Kami, mereka itulah penghuni neraka. Mereka kekal di dalamnya.",
+    "transliteration": "Wal-lażīna kafarū wa każżabū bi'āyātinā ulā'ika aṣḥābun-nār(i), hum fīhā khālidūn(a)."
+  },
+  {
+    "id": 47,
+    "surah_id": 2,
+    "verse_id": 40,
+    "juz_id": 1,
+    "text_ar": "يَٰبَنِيٓ إِسۡرَـٰٓءِيلَ ٱذۡكُرُواْ نِعۡمَتِيَ ٱلَّتِيٓ أَنۡعَمۡتُ عَلَيۡكُمۡ وَأَوۡفُواْ بِعَهۡدِيٓ أُوفِ بِعَهۡدِكُمۡ وَإِيَّـٰيَ فَٱرۡهَبُونِ",
+    "text_id": "Wahai Bani Israil, ingatlah nikmat-Ku yang telah Aku berikan kepadamu dan penuhilah janjimu kepada-Ku, niscaya Aku penuhi janji-Ku kepadamu. Hanya kepada-Ku hendaknya kamu takut.",
+    "transliteration": "Yā banī isrā'īlażkurū ni‘matiyal-latī an‘amtu ‘alaikum wa aufū bi‘ahdī ūfi bi‘ahdikum, wa iyyāya farhabūn(i)."
+  },
+  {
+    "id": 48,
+    "surah_id": 2,
+    "verse_id": 41,
+    "juz_id": 1,
+    "text_ar": "وَءَامِنُواْ بِمَآ أَنزَلۡتُ مُصَدِّقٗا لِّمَا مَعَكُمۡ وَلَا تَكُونُوٓاْ أَوَّلَ كَافِرِۭ بِهِۦۖ وَلَا تَشۡتَرُواْ بِـَٔايَٰتِي ثَمَنٗا قَلِيلٗا وَإِيَّـٰيَ فَٱتَّقُونِ",
+    "text_id": "Berimanlah kamu kepada apa (Al-Qur’an) yang telah Aku turunkan sebagai pembenar bagi apa yang ada pada kamu (Taurat) dan janganlah kamu menjadi orang yang pertama kafir kepadanya. Janganlah kamu menukarkan ayat-ayat-Ku dengan harga murah dan bertakwalah hanya kepada-Ku.",
+    "transliteration": "Wa āminū bimā anzaltu muṣaddiqal limā ma‘akum wa lā takūnū awwala kāfirim bih(ī), wa lā tasytarū bi'āyātī ṡamanan qalīlā(n), wa iyyāya fattaqūn(i)."
+  },
+  {
+    "id": 49,
+    "surah_id": 2,
+    "verse_id": 42,
+    "juz_id": 1,
+    "text_ar": "وَلَا تَلۡبِسُواْ ٱلۡحَقَّ بِٱلۡبَٰطِلِ وَتَكۡتُمُواْ ٱلۡحَقَّ وَأَنتُمۡ تَعۡلَمُونَ",
+    "text_id": "Janganlah kamu campuradukkan kebenaran dengan kebatilan dan (jangan pula) kamu sembunyikan kebenaran, sedangkan kamu mengetahui(-nya).",
+    "transliteration": "Wa lā talbisul-ḥaqqa bil-bāṭili wa taktumul-ḥaqqa wa antum ta‘lamūn(a)."
+  },
+  {
+    "id": 50,
+    "surah_id": 2,
+    "verse_id": 43,
+    "juz_id": 1,
+    "text_ar": "وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَٱرۡكَعُواْ مَعَ ٱلرَّـٰكِعِينَ",
+    "text_id": "Tegakkanlah salat, tunaikanlah zakat, dan rukuklah beserta orang-orang yang rukuk.",
+    "transliteration": "Wa aqīmuṣ-ṣalāta wa ātuz-zakāta warka‘ū ma‘ar-rāki‘īn(a)."
+  },
+  {
+    "id": 51,
+    "surah_id": 2,
+    "verse_id": 44,
+    "juz_id": 1,
+    "text_ar": "۞أَتَأۡمُرُونَ ٱلنَّاسَ بِٱلۡبِرِّ وَتَنسَوۡنَ أَنفُسَكُمۡ وَأَنتُمۡ تَتۡلُونَ ٱلۡكِتَٰبَۚ أَفَلَا تَعۡقِلُونَ",
+    "text_id": "Mengapa kamu menyuruh orang lain untuk (mengerjakan) kebajikan, sedangkan kamu melupakan dirimu sendiri, padahal kamu membaca kitab suci (Taurat)? Tidakkah kamu mengerti?",
+    "transliteration": "Ata'murūnan-nāsa bil-birri wa tansauna anfusakum wa antum tatlūnal-kitāb(a), afalā ta‘qilūn(a)."
+  },
+  {
+    "id": 52,
+    "surah_id": 2,
+    "verse_id": 45,
+    "juz_id": 1,
+    "text_ar": "وَٱسۡتَعِينُواْ بِٱلصَّبۡرِ وَٱلصَّلَوٰةِۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى ٱلۡخَٰشِعِينَ",
+    "text_id": "Mohonlah pertolongan (kepada Allah) dengan sabar dan salat. Sesungguhnya (salat) itu benar-benar berat, kecuali bagi orang-orang yang khusyuk,",
+    "transliteration": "Wasta‘īnū biṣ-ṣabri waṣ-ṣalāh(ti), wa innahā lakabīratun illā ‘alal-khāsyi‘īn(a)."
+  },
+  {
+    "id": 53,
+    "surah_id": 2,
+    "verse_id": 46,
+    "juz_id": 1,
+    "text_ar": "ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُواْ رَبِّهِمۡ وَأَنَّهُمۡ إِلَيۡهِ رَٰجِعُونَ",
+    "text_id": "(yaitu) orang-orang yang meyakini bahwa mereka akan menemui Tuhannya dan hanya kepada-Nya mereka kembali.",
+    "transliteration": "Allażīna yaẓunnūna annahum mulāqū rabbihim wa annahum ilaihi rāji‘ūn(a)."
+  },
+  {
+    "id": 54,
+    "surah_id": 2,
+    "verse_id": 47,
+    "juz_id": 1,
+    "text_ar": "يَٰبَنِيٓ إِسۡرَـٰٓءِيلَ ٱذۡكُرُواْ نِعۡمَتِيَ ٱلَّتِيٓ أَنۡعَمۡتُ عَلَيۡكُمۡ وَأَنِّي فَضَّلۡتُكُمۡ عَلَى ٱلۡعَٰلَمِينَ",
+    "text_id": "Wahai Bani Israil, ingatlah nikmat-Ku yang telah Aku anugerahkan kepadamu dan sesungguhnya Aku telah melebihkan kamu daripada semua umat di alam ini (pada masa itu).",
+    "transliteration": "Yā banī isrā'īlażkurū ni‘matiyal-latī an‘amtu ‘alaikum wa annī faḍḍaltukum ‘alal- ‘ālamīn(a)."
+  },
+  {
+    "id": 55,
+    "surah_id": 2,
+    "verse_id": 48,
+    "juz_id": 1,
+    "text_ar": "وَٱتَّقُواْ يَوۡمٗا لَّا تَجۡزِي نَفۡسٌ عَن نَّفۡسٖ شَيۡـٔٗا وَلَا يُقۡبَلُ مِنۡهَا شَفَٰعَةٞ وَلَا يُؤۡخَذُ مِنۡهَا عَدۡلٞ وَلَا هُمۡ يُنصَرُونَ",
+    "text_id": "Takutlah kamu pada suatu hari (kiamat) yang seseorang tidak dapat membela orang lain sedikit pun, syafaat dan tebusan apa pun darinya tidak diterima, dan mereka tidak akan ditolong.",
+    "transliteration": "Wattaqū yaumal lā tajzī nafsun ‘an nafsin syai'aw wa lā yuqbalu minhā syafā‘atuw wa lā yu'khażu minhā ‘adluw wa lā hum yunṣarūn(a)."
+  },
+  {
+    "id": 56,
+    "surah_id": 2,
+    "verse_id": 49,
+    "juz_id": 1,
+    "text_ar": "وَإِذۡ نَجَّيۡنَٰكُم مِّنۡ ءَالِ فِرۡعَوۡنَ يَسُومُونَكُمۡ سُوٓءَ ٱلۡعَذَابِ يُذَبِّحُونَ أَبۡنَآءَكُمۡ وَيَسۡتَحۡيُونَ نِسَآءَكُمۡۚ وَفِي ذَٰلِكُم بَلَآءٞ مِّن رَّبِّكُمۡ عَظِيمٞ",
+    "text_id": "(Ingatlah) ketika Kami menyelamatkan kamu dari (Fir‘aun dan) pengikut-pengikut Fir‘aun. Mereka menimpakan siksaan yang sangat berat kepadamu. Mereka menyembelih anak-anak laki-lakimu dan membiarkan hidup anak-anak perempuanmu. Pada yang demikian terdapat cobaan yang sangat besar dari Tuhanmu.",
+    "transliteration": "Wa iż najjainākum min āli fir‘auna yasūmūnakum sū'al-‘ażābi yużabbiḥūna abnā'akum wa yastaḥyūna nisā'akum, wa fī żālikum balā'um mir rabbikum ‘aẓīm(un)."
+  },
+  {
+    "id": 57,
+    "surah_id": 2,
+    "verse_id": 50,
+    "juz_id": 1,
+    "text_ar": "وَإِذۡ فَرَقۡنَا بِكُمُ ٱلۡبَحۡرَ فَأَنجَيۡنَٰكُمۡ وَأَغۡرَقۡنَآ ءَالَ فِرۡعَوۡنَ وَأَنتُمۡ تَنظُرُونَ",
+    "text_id": "(Ingatlah) ketika Kami membelah laut untukmu, lalu Kami menyelamatkanmu dan menenggelamkan (Fir‘aun dan) pengikut-pengikut Fir‘aun, sedangkan kamu menyaksikan(-nya).",
+    "transliteration": "Wa iż faraqnā bikumul-baḥra fa'anjainākum wa agraqnā āla fir‘auna wa antum tanẓurūn(a)."
+  },
+  {
+    "id": 58,
+    "surah_id": 2,
+    "verse_id": 51,
+    "juz_id": 1,
+    "text_ar": "وَإِذۡ وَٰعَدۡنَا مُوسَىٰٓ أَرۡبَعِينَ لَيۡلَةٗ ثُمَّ ٱتَّخَذۡتُمُ ٱلۡعِجۡلَ مِنۢ بَعۡدِهِۦ وَأَنتُمۡ ظَٰلِمُونَ",
+    "text_id": "(Ingatlah) ketika Kami menjanjikan (petunjuk Taurat) kepada Musa (melalui munajat selama) empat puluh malam. Kemudian, kamu (Bani Israil) menjadikan (patung) anak sapi (sebagai sembahan) setelah (kepergian)-nya, dan kamu (menjadi) orang-orang zalim.",
+    "transliteration": "Wa iż wā‘adnā mūsā arba‘īna lailatan ṡummattakhażtumul-‘ijla mim ba‘dihī wa antum ẓālimūn(a)."
+  },
+  {
+    "id": 59,
+    "surah_id": 2,
+    "verse_id": 52,
+    "juz_id": 1,
+    "text_ar": "ثُمَّ عَفَوۡنَا عَنكُم مِّنۢ بَعۡدِ ذَٰلِكَ لَعَلَّكُمۡ تَشۡكُرُونَ",
+    "text_id": "Setelah itu, Kami memaafkan kamu agar kamu bersyukur.",
+    "transliteration": "Ṡumma ‘afaunā ‘ankum mim ba‘di żālika la‘allakum tasykurūn(a)."
+  },
+  {
+    "id": 60,
+    "surah_id": 2,
+    "verse_id": 53,
+    "juz_id": 1,
+    "text_ar": "وَإِذۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ وَٱلۡفُرۡقَانَ لَعَلَّكُمۡ تَهۡتَدُونَ",
+    "text_id": "(Ingatlah) ketika Kami memberikan kitab (Taurat) dan furqān kepada Musa agar kamu memperoleh petunjuk.",
+    "transliteration": "Wa iż ātainā mūsal-kitāba wal-furqāna la‘allakum tahtadūn(a)."
+  },
+  {
+    "id": 61,
+    "surah_id": 2,
+    "verse_id": 54,
+    "juz_id": 1,
+    "text_ar": "وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِۦ يَٰقَوۡمِ إِنَّكُمۡ ظَلَمۡتُمۡ أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلۡعِجۡلَ فَتُوبُوٓاْ إِلَىٰ بَارِئِكُمۡ فَٱقۡتُلُوٓاْ أَنفُسَكُمۡ ذَٰلِكُمۡ خَيۡرٞ لَّكُمۡ عِندَ بَارِئِكُمۡ فَتَابَ عَلَيۡكُمۡۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+    "text_id": "(Ingatlah) ketika Musa berkata kepada kaumnya, “Wahai kaumku, sesungguhnya kamu telah menzalimi dirimu sendiri dengan menjadikan (patung) anak sapi (sebagai sembahan). Oleh karena itu, bertobatlah kepada Penciptamu dan bunuhlah dirimu. Itu lebih baik bagimu dalam pandangan Penciptamu. Dia akan menerima tobatmu. Sesungguhnya Dialah Yang Maha Penerima Tobat lagi Maha Penyayang.",
+    "transliteration": "Wa iż qāla mūsā liqaumihī yā qaumi innakum ẓalamtum anfusakum bittikhāżikumul- ‘ijla fatūbū ilā bāri'ikum faqtulū anfusakum, żālikum khairul lakum ‘inda bāri'ikum, fatāba ‘alaikum, innahū huwat-tawwābur-raḥīm(u)."
+  },
+  {
+    "id": 62,
+    "surah_id": 2,
+    "verse_id": 55,
+    "juz_id": 1,
+    "text_ar": "وَإِذۡ قُلۡتُمۡ يَٰمُوسَىٰ لَن نُّؤۡمِنَ لَكَ حَتَّىٰ نَرَى ٱللَّهَ جَهۡرَةٗ فَأَخَذَتۡكُمُ ٱلصَّـٰعِقَةُ وَأَنتُمۡ تَنظُرُونَ",
+    "text_id": "(Ingatlah) ketika kamu berkata, “Wahai Musa, kami tidak akan beriman kepadamu sebelum melihat Allah dengan jelas.” Maka, halilintar menyambarmu dan kamu menyaksikan(-nya).",
+    "transliteration": "Wa iż qultum yā mūsā lan nu'mina laka ḥattā narallāha jahratan fa'akhażatkumuṣ-ṣā‘iqatu wa antum tanẓurūn(a)."
+  },
+  {
+    "id": 63,
+    "surah_id": 2,
+    "verse_id": 56,
+    "juz_id": 1,
+    "text_ar": "ثُمَّ بَعَثۡنَٰكُم مِّنۢ بَعۡدِ مَوۡتِكُمۡ لَعَلَّكُمۡ تَشۡكُرُونَ",
+    "text_id": "Kemudian, Kami membangkitkan kamu setelah kematianmu agar kamu bersyukur.",
+    "transliteration": "Ṡumma ba‘aṡnākum mim ba‘di mautikum la‘allakum tasykurūn(a)."
+  },
+  {
+    "id": 64,
+    "surah_id": 2,
+    "verse_id": 57,
+    "juz_id": 1,
+    "text_ar": "وَظَلَّلۡنَا عَلَيۡكُمُ ٱلۡغَمَامَ وَأَنزَلۡنَا عَلَيۡكُمُ ٱلۡمَنَّ وَٱلسَّلۡوَىٰۖ كُلُواْ مِن طَيِّبَٰتِ مَا رَزَقۡنَٰكُمۡۚ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ يَظۡلِمُونَ",
+    "text_id": "Kami menaungi kamu dengan awan dan Kami menurunkan kepadamu manna dan salwa. Makanlah (makanan) yang baik-baik dari rezeki yang telah Kami berikan kepadamu. Mereka tidak menzalimi Kami, tetapi justru merekalah yang menzalimi diri sendiri.",
+    "transliteration": "Wa ẓallalnā ‘alaikumul-gamāma wa anzalnā ‘alaikumul-manna was-salwā, kulū min ṭayyibāti mā razaqnākum, wa mā ẓalamūnā wa lākin kānū anfusahum yaẓlimūn(a)."
+  },
+  {
+    "id": 65,
+    "surah_id": 2,
+    "verse_id": 58,
+    "juz_id": 1,
+    "text_ar": "وَإِذۡ قُلۡنَا ٱدۡخُلُواْ هَٰذِهِ ٱلۡقَرۡيَةَ فَكُلُواْ مِنۡهَا حَيۡثُ شِئۡتُمۡ رَغَدٗا وَٱدۡخُلُواْ ٱلۡبَابَ سُجَّدٗا وَقُولُواْ حِطَّةٞ نَّغۡفِرۡ لَكُمۡ خَطَٰيَٰكُمۡۚ وَسَنَزِيدُ ٱلۡمُحۡسِنِينَ",
+    "text_id": "(Ingatlah) ketika Kami berfirman, “Masuklah ke negeri ini (Baitulmaqdis). Lalu, makanlah dengan nikmat (berbagai makanan) yang ada di sana sesukamu. Masukilah pintu gerbangnya sambil membungkuk dan katakanlah, ‘Bebaskanlah kami (dari dosa-dosa kami),’ niscaya Kami mengampuni kesalahan-kesalahanmu. Kami akan menambah (karunia) kepada orang-orang yang berbuat kebaikan.”",
+    "transliteration": "Wa iż qulnadkhulū hāżihil-qaryata fakulū minhā ḥaiṡu syi'tum ragadaw wadkhulul- bāba sujjadaw wa qūlū ḥiṭṭatun nagfir lakum khaṭāyākum, wa sanazīdul-muḥsinīn(a)."
+  },
+  {
+    "id": 66,
+    "surah_id": 2,
+    "verse_id": 59,
+    "juz_id": 1,
+    "text_ar": "فَبَدَّلَ ٱلَّذِينَ ظَلَمُواْ قَوۡلًا غَيۡرَ ٱلَّذِي قِيلَ لَهُمۡ فَأَنزَلۡنَا عَلَى ٱلَّذِينَ ظَلَمُواْ رِجۡزٗا مِّنَ ٱلسَّمَآءِ بِمَا كَانُواْ يَفۡسُقُونَ",
+    "text_id": "Lalu, orang-orang yang zalim mengganti perintah dengan (perintah lain) yang tidak diperintahkan kepada mereka. Maka, Kami menurunkan malapetaka dari langit kepada orang-orang yang zalim itu karena mereka selalu berbuat fasik.",
+    "transliteration": "Fabaddalal-lażīna ẓalamū qaulan gairal-lażī qīla lahum fa anzalnā ‘alal-lażīna ẓalamū rijzam minas-samā'i bimā kānū yafsuqūn(a)."
+  },
+  {
+    "id": 67,
+    "surah_id": 2,
+    "verse_id": 60,
+    "juz_id": 1,
+    "text_ar": "۞وَإِذِ ٱسۡتَسۡقَىٰ مُوسَىٰ لِقَوۡمِهِۦ فَقُلۡنَا ٱضۡرِب بِّعَصَاكَ ٱلۡحَجَرَۖ فَٱنفَجَرَتۡ مِنۡهُ ٱثۡنَتَا عَشۡرَةَ عَيۡنٗاۖ قَدۡ عَلِمَ كُلُّ أُنَاسٖ مَّشۡرَبَهُمۡۖ كُلُواْ وَٱشۡرَبُواْ مِن رِّزۡقِ ٱللَّهِ وَلَا تَعۡثَوۡاْ فِي ٱلۡأَرۡضِ مُفۡسِدِينَ",
+    "text_id": "(Ingatlah) ketika Musa memohon (curahan) air untuk kaumnya. Lalu, Kami berfirman, “Pukullah batu itu dengan tongkatmu!” Maka, memancarlah darinya (batu itu) dua belas mata air. Setiap suku telah mengetahui tempat minumnya (masing-masing). Makan dan minumlah rezeki (yang diberikan) Allah dan janganlah melakukan kejahatan di bumi dengan berbuat kerusakan.",
+    "transliteration": "Wa iżistasqā mūsā liqaumihī faqulnaḍrib bi‘aṣākal-ḥajar(a), fanfajarat minhuṡnatā ‘asyrata ‘ainā(n), qad ‘alima kullu unāsim masyrabahum, kulū wasyrabū mir rizqillāhi wa lā ta‘ṡau fil-arḍi mufsidīn(a)."
+  },
+  {
+    "id": 68,
+    "surah_id": 2,
+    "verse_id": 61,
+    "juz_id": 1,
+    "text_ar": "وَإِذۡ قُلۡتُمۡ يَٰمُوسَىٰ لَن نَّصۡبِرَ عَلَىٰ طَعَامٖ وَٰحِدٖ فَٱدۡعُ لَنَا رَبَّكَ يُخۡرِجۡ لَنَا مِمَّا تُنۢبِتُ ٱلۡأَرۡضُ مِنۢ بَقۡلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَاۖ قَالَ أَتَسۡتَبۡدِلُونَ ٱلَّذِي هُوَ أَدۡنَىٰ بِٱلَّذِي هُوَ خَيۡرٌۚ ٱهۡبِطُواْ مِصۡرٗا فَإِنَّ لَكُم مَّا سَأَلۡتُمۡۗ وَضُرِبَتۡ عَلَيۡهِمُ ٱلذِّلَّةُ وَٱلۡمَسۡكَنَةُ وَبَآءُو بِغَضَبٖ مِّنَ ٱللَّهِۚ ذَٰلِكَ بِأَنَّهُمۡ كَانُواْ يَكۡفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقۡتُلُونَ ٱلنَّبِيِّـۧنَ بِغَيۡرِ ٱلۡحَقِّۚ ذَٰلِكَ بِمَا عَصَواْ وَّكَانُواْ يَعۡتَدُونَ",
+    "text_id": "(Ingatlah) ketika kamu berkata, “Wahai Musa, kami tidak tahan hanya (makan) dengan satu macam makanan. Maka, mohonkanlah kepada Tuhanmu untuk kami agar Dia memberi kami apa yang ditumbuhkan bumi, seperti sayur-mayur, mentimun, bawang putih, kacang adas, dan bawang merah.” Dia (Musa) menjawab, “Apakah kamu meminta sesuatu yang buruk sebagai ganti dari sesuatu yang baik? Pergilah ke suatu kota. Pasti kamu akan memperoleh apa yang kamu minta.” Kemudian, mereka ditimpa kenistaan dan kemiskinan, dan mereka (kembali) mendapat kemurkaan dari Allah. Hal itu (terjadi) karena sesungguhnya mereka selalu mengingkari ayat-ayat Allah dan membunuh para nabi tanpa hak (alasan yang benar). Yang demikian itu ditimpakan karena mereka durhaka dan selalu melampaui batas.",
+    "transliteration": "Wa iż qultum yā mūsā lan naṣbira ‘alā ṭa‘āmiw wāḥidin fad‘u lanā rabbaka yukhrij lanā mimmā tumbitul-arḍu mim baqlihā wa qiṡṡā'ihā wa fūmihā wa ‘adasihā wa baṣalihā, qāla atastabdilūnal-lażī huwa adnā bil-lażī huwa khair(un), ihbiṭū miṣran fa inna lakum mā sa'altum, wa ḍuribat ‘alaihimuż-żillatu wal-maskanatu wa bā'ū bigaḍabim minallāh(i), żālika bi'annahum kānū yakfurūna bi'āyātillāhi wa yaqtulūnan- nabiyyīna bi gairil-ḥaqq(i), żālika bimā ‘aṣaw wa kānū ya‘tadūn(a)."
+  },
+  {
+    "id": 69,
+    "surah_id": 2,
+    "verse_id": 62,
+    "juz_id": 1,
+    "text_ar": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلنَّصَٰرَىٰ وَٱلصَّـٰبِـِٔينَ مَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَعَمِلَ صَٰلِحٗا فَلَهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
+    "text_id": "Sesungguhnya orang-orang yang beriman, orang-orang Yahudi, orang-orang Nasrani, dan orang-orang Sabiin, siapa saja (di antara mereka) yang beriman kepada Allah dan hari Akhir serta melakukan kebajikan (pasti) mendapat pahala dari Tuhannya, tidak ada rasa takut yang menimpa mereka dan mereka pun tidak bersedih hati.",
+    "transliteration": "Innal-lażīna āmanū wal-lażīna hādū wan-naṣārā waṣ-ṣābi'īna man āmana billāhi wal- yaumil-ākhiri wa ‘amila ṣāliḥan fa lahum ajruhum ‘inda rabbihim, wa lā khaufun ‘alaihim wa lā hum yaḥzanūn(a)."
+  },
+  {
+    "id": 70,
+    "surah_id": 2,
+    "verse_id": 63,
+    "juz_id": 1,
+    "text_ar": "وَإِذۡ أَخَذۡنَا مِيثَٰقَكُمۡ وَرَفَعۡنَا فَوۡقَكُمُ ٱلطُّورَ خُذُواْ مَآ ءَاتَيۡنَٰكُم بِقُوَّةٖ وَٱذۡكُرُواْ مَا فِيهِ لَعَلَّكُمۡ تَتَّقُونَ",
+    "text_id": "(Ingatlah) ketika Kami mengambil janjimu dan Kami angkat gunung (Sinai) di atasmu (seraya berfirman), “Pegang teguhlah apa yang telah Kami berikan kepadamu dan ingatlah apa yang ada di dalamnya agar kamu bertakwa.”",
+    "transliteration": "Wa iż akhażnā mīṡāqakum wa rafa‘nā fauqakumuṭ-ṭūr(a), khużū mā ātainākum biquwwatiw ważkurū mā fīhi la‘allakum tattaqūn(a)."
+  },
+  {
+    "id": 71,
+    "surah_id": 2,
+    "verse_id": 64,
+    "juz_id": 1,
+    "text_ar": "ثُمَّ تَوَلَّيۡتُم مِّنۢ بَعۡدِ ذَٰلِكَۖ فَلَوۡلَا فَضۡلُ ٱللَّهِ عَلَيۡكُمۡ وَرَحۡمَتُهُۥ لَكُنتُم مِّنَ ٱلۡخَٰسِرِينَ",
+    "text_id": "Setelah itu, kamu berpaling. Maka, seandainya bukan karena karunia Allah dan rahmat-Nya kepadamu, pasti kamu termasuk orang yang rugi.",
+    "transliteration": "Ṡumma tawallaitum mim ba‘di żālika falau lā faḍlullāhi ‘alaikum wa raḥmatuhū lakuntum minal-khāsirīn(a)."
+  },
+  {
+    "id": 72,
+    "surah_id": 2,
+    "verse_id": 65,
+    "juz_id": 1,
+    "text_ar": "وَلَقَدۡ عَلِمۡتُمُ ٱلَّذِينَ ٱعۡتَدَوۡاْ مِنكُمۡ فِي ٱلسَّبۡتِ فَقُلۡنَا لَهُمۡ كُونُواْ قِرَدَةً خَٰسِـِٔينَ",
+    "text_id": "Sungguh, kamu benar-benar telah mengetahui orang-orang yang melakukan pelanggaran di antara kamu pada hari Sabat, lalu Kami katakan kepada mereka, “Jadilah kamu kera yang hina!”",
+    "transliteration": "Wa laqad ‘alimtumul-lażīna‘tadau minkum fis-sabti faqulnā lahum kūnū qiradatan khāsi'īn(a)."
+  },
+  {
+    "id": 73,
+    "surah_id": 2,
+    "verse_id": 66,
+    "juz_id": 1,
+    "text_ar": "فَجَعَلۡنَٰهَا نَكَٰلٗا لِّمَا بَيۡنَ يَدَيۡهَا وَمَا خَلۡفَهَا وَمَوۡعِظَةٗ لِّلۡمُتَّقِينَ",
+    "text_id": "Maka, Kami jadikan (yang demikian) itu sebagai peringatan bagi orang-orang pada masa itu dan bagi mereka yang datang kemudian, serta menjadi pelajaran bagi orang-orang yang bertakwa.",
+    "transliteration": "Faja‘alnāhā nakālal limā baina yadaihā wa mā khalfahā wa mau‘iẓatal lil-muttaqīn(a)."
+  },
+  {
+    "id": 74,
+    "surah_id": 2,
+    "verse_id": 67,
+    "juz_id": 1,
+    "text_ar": "وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِۦٓ إِنَّ ٱللَّهَ يَأۡمُرُكُمۡ أَن تَذۡبَحُواْ بَقَرَةٗۖ قَالُوٓاْ أَتَتَّخِذُنَا هُزُوٗاۖ قَالَ أَعُوذُ بِٱللَّهِ أَنۡ أَكُونَ مِنَ ٱلۡجَٰهِلِينَ",
+    "text_id": "(Ingatlah) ketika Musa berkata kepada kaumnya, “Allah memerintahkan kamu agar menyembelih seekor sapi.” Mereka bertanya, “Apakah engkau akan menjadikan kami sebagai ejekan?” Dia menjawab, “Aku berlindung kepada Allah agar tidak termasuk orang-orang yang jahil.”",
+    "transliteration": "Wa iż qāla mūsā liqaumihī innallāha ya'murukum an tażbaḥū baqarah(tan), qālū atattakhiżunā huzuwā(n), qāla a‘ūżu billāhi an akūna minal-jāhilīn(a)."
+  },
+  {
+    "id": 75,
+    "surah_id": 2,
+    "verse_id": 68,
+    "juz_id": 1,
+    "text_ar": "قَالُواْ ٱدۡعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٞ لَّا فَارِضٞ وَلَا بِكۡرٌ عَوَانُۢ بَيۡنَ ذَٰلِكَۖ فَٱفۡعَلُواْ مَا تُؤۡمَرُونَ",
+    "text_id": "Mereka berkata, “Mohonkanlah kepada Tuhanmu untuk kami agar Dia menjelaskan kepada kami tentang (sapi) itu.” Dia (Musa) menjawab, “Dia (Allah) berfirman bahwa sapi itu tidak tua dan tidak muda, (tetapi) pertengahan antara itu. Maka, kerjakanlah apa yang diperintahkan kepadamu.”",
+    "transliteration": "Qālud‘u lanā rabbaka yubayyil lanā mā hiy(a), qāla innahū yaqūlu innahā baqaratul lā fāriḍuw wa lā bikr(un), ‘awānum baina żālik(a), faf‘alū mā tu'marūn(a)."
+  },
+  {
+    "id": 76,
+    "surah_id": 2,
+    "verse_id": 69,
+    "juz_id": 1,
+    "text_ar": "قَالُواْ ٱدۡعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوۡنُهَاۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٞ صَفۡرَآءُ فَاقِعٞ لَّوۡنُهَا تَسُرُّ ٱلنَّـٰظِرِينَ",
+    "text_id": "Mereka berkata, “Mohonkanlah kepada Tuhanmu untuk kami agar Dia menjelaskan kepada kami apa warnanya.” Dia (Musa) menjawab, “Dia (Allah) berfirman bahwa (sapi) itu adalah sapi yang warnanya kuning tua, yang menyenangkan orang-orang yang memandang(-nya).”",
+    "transliteration": "Qālud‘u lanā rabbaka yubayyil lanā mā launuhā, qāla innahū yaqūlu innahā baqaratun ṣafrā'u fāqi‘ul launuhā tasurrun-nāẓirīn(a)."
+  },
+  {
+    "id": 77,
+    "surah_id": 2,
+    "verse_id": 70,
+    "juz_id": 1,
+    "text_ar": "قَالُواْ ٱدۡعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ إِنَّ ٱلۡبَقَرَ تَشَٰبَهَ عَلَيۡنَا وَإِنَّآ إِن شَآءَ ٱللَّهُ لَمُهۡتَدُونَ",
+    "text_id": "Mereka berkata, “Mohonkanlah kepada Tuhanmu untuk kami agar Dia menjelaskan kepada kami tentang (sapi) itu. (Karena) sesungguhnya sapi itu belum jelas bagi kami, dan jika Allah menghendakinya, niscaya kami mendapat petunjuk.”",
+    "transliteration": "Qālud‘u lanā rabbaka yubayyil lanā mā hiy(a), innal-baqara tasyābaha ‘alainā, wa innā in syā'allāhu lamuhtadūn(a)."
+  },
+  {
+    "id": 78,
+    "surah_id": 2,
+    "verse_id": 71,
+    "juz_id": 1,
+    "text_ar": "قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٞ لَّا ذَلُولٞ تُثِيرُ ٱلۡأَرۡضَ وَلَا تَسۡقِي ٱلۡحَرۡثَ مُسَلَّمَةٞ لَّا شِيَةَ فِيهَاۚ قَالُواْ ٱلۡـَٰٔنَ جِئۡتَ بِٱلۡحَقِّۚ فَذَبَحُوهَا وَمَا كَادُواْ يَفۡعَلُونَ",
+    "text_id": "Dia (Musa) menjawab, “Dia (Allah) berfirman bahwa (sapi) itu adalah sapi yang belum pernah dipakai untuk membajak tanah dan tidak (pula) untuk mengairi tanaman, sehat, dan tanpa belang.” Mereka berkata, “Sekarang barulah engkau menerangkan (hal) yang sebenarnya.” Lalu, mereka menyembelihnya, dan hampir saja mereka tidak melaksanakan (perintah) itu.",
+    "transliteration": "Qāla innahū yaqūlu innahā baqaratul lā żalūlun tuṡīrul-arḍa wa lā tasqil-ḥarṡ(a), musallamatul lā syiyata fīhā, qālul-'āna ji'ta bil-ḥaqqi fażabaḥūhā wa mā kādū yaf‘alūn(a)."
+  },
+  {
+    "id": 79,
+    "surah_id": 2,
+    "verse_id": 72,
+    "juz_id": 1,
+    "text_ar": "وَإِذۡ قَتَلۡتُمۡ نَفۡسٗا فَٱدَّـٰرَ ٰٔتُمۡ فِيهَاۖ وَٱللَّهُ مُخۡرِجٞ مَّا كُنتُمۡ تَكۡتُمُونَ",
+    "text_id": "(Ingatlah) ketika kamu membunuh seseorang lalu kamu saling tuduh tentang itu. Akan tetapi, Allah menyingkapkan apa yang selalu kamu sembunyikan.",
+    "transliteration": "Wa iż qultum nafsan faddāra'tum fīhā, wallāhu mukhrijum mā kuntum taktumūn(a)."
+  },
+  {
+    "id": 80,
+    "surah_id": 2,
+    "verse_id": 73,
+    "juz_id": 1,
+    "text_ar": "فَقُلۡنَا ٱضۡرِبُوهُ بِبَعۡضِهَاۚ كَذَٰلِكَ يُحۡيِ ٱللَّهُ ٱلۡمَوۡتَىٰ وَيُرِيكُمۡ ءَايَٰتِهِۦ لَعَلَّكُمۡ تَعۡقِلُونَ",
+    "text_id": "Lalu, Kami berfirman, “Pukullah (mayat) itu dengan bagian dari (sapi) itu!” Demikianlah Allah menghidupkan (orang) yang telah mati, dan Dia memperlihatkan kepadamu tanda-tanda (kekuasaan-Nya) agar kamu mengerti.",
+    "transliteration": "Faqulnaḍribūhu biba‘ḍihā, każālika yuḥyillāhul-mautā wa yurīkum āyātihī la‘allakum ta‘qilūn(a)."
+  },
+  {
+    "id": 81,
+    "surah_id": 2,
+    "verse_id": 74,
+    "juz_id": 1,
+    "text_ar": "ثُمَّ قَسَتۡ قُلُوبُكُم مِّنۢ بَعۡدِ ذَٰلِكَ فَهِيَ كَٱلۡحِجَارَةِ أَوۡ أَشَدُّ قَسۡوَةٗۚ وَإِنَّ مِنَ ٱلۡحِجَارَةِ لَمَا يَتَفَجَّرُ مِنۡهُ ٱلۡأَنۡهَٰرُۚ وَإِنَّ مِنۡهَا لَمَا يَشَّقَّقُ فَيَخۡرُجُ مِنۡهُ ٱلۡمَآءُۚ وَإِنَّ مِنۡهَا لَمَا يَهۡبِطُ مِنۡ خَشۡيَةِ ٱللَّهِۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ",
+    "text_id": "Setelah itu, hatimu menjadi keras sehingga ia (hatimu) seperti batu, bahkan lebih keras. Padahal, dari batu-batu itu pasti ada sungai-sungai yang (airnya) memancar. Ada pula yang terbelah, lalu keluarlah mata air darinya, dan ada lagi yang meluncur jatuh karena takut kepada Allah. Allah tidaklah lengah terhadap apa yang kamu kerjakan.",
+    "transliteration": "Ṡumma qasat qulūbukum mim ba‘di żālika fahiya kal-ḥijārati au asyaddu qaswah(tan), wa inna minal-ḥijārati lamā yatafajjaru minhul-anhār(u), wa inna minhā lamā yasysyaqqaqu fayakhruju minhul-mā'(u), wa inna minhā lamā yahbiṭu min khasy-yatillāh(i), wa mallāhu bigāfilin ‘ammā ta‘malūn(a)."
+  },
+  {
+    "id": 82,
+    "surah_id": 2,
+    "verse_id": 75,
+    "juz_id": 1,
+    "text_ar": "۞أَفَتَطۡمَعُونَ أَن يُؤۡمِنُواْ لَكُمۡ وَقَدۡ كَانَ فَرِيقٞ مِّنۡهُمۡ يَسۡمَعُونَ كَلَٰمَ ٱللَّهِ ثُمَّ يُحَرِّفُونَهُۥ مِنۢ بَعۡدِ مَا عَقَلُوهُ وَهُمۡ يَعۡلَمُونَ",
+    "text_id": "Maka, apakah kamu (muslimin) sangat mengharapkan mereka agar percaya kepadamu, sedangkan segolongan mereka mendengar firman Allah lalu mereka mengubahnya setelah memahaminya, padahal mereka mengetahui(-nya)?",
+    "transliteration": "Afa taṭma‘ūna ay yu'minū lakum wa qad kāna farīqum minhum yasma‘ūna kalāmallāhi ṡumma yuḥarrifūnahū mim ba‘di mā ‘aqalūhu wa hum ya‘lamūn(a)."
+  },
+  {
+    "id": 83,
+    "surah_id": 2,
+    "verse_id": 76,
+    "juz_id": 1,
+    "text_ar": "وَإِذَا لَقُواْ ٱلَّذِينَ ءَامَنُواْ قَالُوٓاْ ءَامَنَّا وَإِذَا خَلَا بَعۡضُهُمۡ إِلَىٰ بَعۡضٖ قَالُوٓاْ أَتُحَدِّثُونَهُم بِمَا فَتَحَ ٱللَّهُ عَلَيۡكُمۡ لِيُحَآجُّوكُم بِهِۦ عِندَ رَبِّكُمۡۚ أَفَلَا تَعۡقِلُونَ",
+    "text_id": "Apabila berjumpa dengan orang-orang yang beriman, mereka berkata, “Kami telah beriman.” Akan tetapi, apabila kembali kepada sesamanya, mereka bertanya, “Apakah akan kamu ceritakan kepada mereka apa yang telah diterangkan Allah kepadamu sehingga mereka dapat menyanggah kamu di hadapan Tuhanmu? Apakah kamu tidak mengerti?”",
+    "transliteration": "Wa iżā laqul-lażīna āmanū qālū āmannā, wa iżā khalā ba‘ḍuhum ilā ba‘ḍin qālū atuḥaddiṡūnahum bimā fataḥallāhu ‘alaikum liyuḥājjūkum bihī ‘inda rabbikum, afalā ta‘qilūn(a)."
+  },
+  {
+    "id": 84,
+    "surah_id": 2,
+    "verse_id": 77,
+    "juz_id": 1,
+    "text_ar": "أَوَلَا يَعۡلَمُونَ أَنَّ ٱللَّهَ يَعۡلَمُ مَا يُسِرُّونَ وَمَا يُعۡلِنُونَ",
+    "text_id": "Tidakkah mereka tahu bahwa Allah mengetahui apa yang mereka sembunyikan dan apa yang mereka nyatakan?",
+    "transliteration": "Awalā ya‘lamūna annallāha ya‘lamu mā yusirrūna wa mā yu‘linūn(a)."
+  },
+  {
+    "id": 85,
+    "surah_id": 2,
+    "verse_id": 78,
+    "juz_id": 1,
+    "text_ar": "وَمِنۡهُمۡ أُمِّيُّونَ لَا يَعۡلَمُونَ ٱلۡكِتَٰبَ إِلَّآ أَمَانِيَّ وَإِنۡ هُمۡ إِلَّا يَظُنُّونَ",
+    "text_id": "Di antara mereka ada yang umi (buta huruf), tidak memahami Kitab (Taurat), kecuali hanya berangan-angan dan mereka hanya menduga-duga.",
+    "transliteration": "Wa minhum umiyyūna lā ya‘lamūnal-kitāba illā amāniyya wa in hum illā yaẓunnūn(a)."
+  },
+  {
+    "id": 86,
+    "surah_id": 2,
+    "verse_id": 79,
+    "juz_id": 1,
+    "text_ar": "فَوَيۡلٞ لِّلَّذِينَ يَكۡتُبُونَ ٱلۡكِتَٰبَ بِأَيۡدِيهِمۡ ثُمَّ يَقُولُونَ هَٰذَا مِنۡ عِندِ ٱللَّهِ لِيَشۡتَرُواْ بِهِۦ ثَمَنٗا قَلِيلٗاۖ فَوَيۡلٞ لَّهُم مِّمَّا كَتَبَتۡ أَيۡدِيهِمۡ وَوَيۡلٞ لَّهُم مِّمَّا يَكۡسِبُونَ",
+    "text_id": "Celakalah orang-orang yang menulis kitab dengan tangan mereka (sendiri), kemudian berkata, “Ini dari Allah,” (dengan maksud) untuk menjualnya dengan harga murah. Maka, celakalah mereka karena tulisan tangan mereka dan celakalah mereka karena apa yang mereka perbuat.",
+    "transliteration": "Fawailul lil-lażīna yaktubūnal-kitāba bi'aidīhim ṡumma yaqūlūna hāżā min ‘indillāhi liyasytarū bihī ṡamanan qalīlā(n), fawailul lahum mimmā katabat aidīhim wa wailul lahum mimmā yaksibūn(a)."
+  },
+  {
+    "id": 87,
+    "surah_id": 2,
+    "verse_id": 80,
+    "juz_id": 1,
+    "text_ar": "وَقَالُواْ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامٗا مَّعۡدُودَةٗۚ قُلۡ أَتَّخَذۡتُمۡ عِندَ ٱللَّهِ عَهۡدٗا فَلَن يُخۡلِفَ ٱللَّهُ عَهۡدَهُۥٓۖ أَمۡ تَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعۡلَمُونَ",
+    "text_id": "Mereka berkata, “Neraka tidak akan menyentuh kami, kecuali beberapa hari saja.” Katakanlah, “Sudahkah kamu menerima janji dari Allah sehingga Allah tidak akan mengingkari janji-Nya ataukah kamu berkata tentang Allah sesuatu yang tidak kamu ketahui?”",
+    "transliteration": "Wa qālū lan tamassanan-nāru illā ayyāmam ma‘dūdah (tan), qul attakhażtum ‘indallāhi ‘ahdan falay yukhlifallāhu ‘ahdahū am taqūlūna ‘alallāhi mā lā ta‘lamūn(a)."
+  },
+  {
+    "id": 88,
+    "surah_id": 2,
+    "verse_id": 81,
+    "juz_id": 1,
+    "text_ar": "بَلَىٰۚ مَن كَسَبَ سَيِّئَةٗ وَأَحَٰطَتۡ بِهِۦ خَطِيٓـَٔتُهُۥ فَأُوْلَـٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ",
+    "text_id": "Bukan demikian! Siapa yang berbuat keburukan dan dosanya telah menenggelamkannya, mereka itulah penghuni neraka. Mereka kekal di dalamnya.",
+    "transliteration": "Balā man kasaba sayyi'ataw wa aḥāṭat bihī khaṭī'atuhū fa ulā'ika aṣḥābun-nār(i), hum fīhā khālidūn(a)."
+  },
+  {
+    "id": 89,
+    "surah_id": 2,
+    "verse_id": 82,
+    "juz_id": 1,
+    "text_ar": "وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ أُوْلَـٰٓئِكَ أَصۡحَٰبُ ٱلۡجَنَّةِۖ هُمۡ فِيهَا خَٰلِدُونَ",
+    "text_id": "Adapun orang-orang yang beriman dan beramal saleh, mereka itulah penghuni surga. Mereka kekal di dalamnya.",
+    "transliteration": "Wal-lażīna āmanū wa ‘amiluṣ-ṣāliḥāti ulā'ika aṣḥābul-jannah(ti), hum fīhā khālidūn(a)."
+  },
+  {
+    "id": 90,
+    "surah_id": 2,
+    "verse_id": 83,
+    "juz_id": 1,
+    "text_ar": "وَإِذۡ أَخَذۡنَا مِيثَٰقَ بَنِيٓ إِسۡرَـٰٓءِيلَ لَا تَعۡبُدُونَ إِلَّا ٱللَّهَ وَبِٱلۡوَٰلِدَيۡنِ إِحۡسَانٗا وَذِي ٱلۡقُرۡبَىٰ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينِ وَقُولُواْ لِلنَّاسِ حُسۡنٗا وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيۡتُمۡ إِلَّا قَلِيلٗا مِّنكُمۡ وَأَنتُم مُّعۡرِضُونَ",
+    "text_id": "(Ingatlah) ketika Kami mengambil perjanjian dari Bani Israil, “Janganlah kamu menyembah selain Allah, dan berbuatbaiklah kepada kedua orang tua, kerabat, anak-anak yatim, dan orang-orang miskin. Selain itu, bertutur katalah yang baik kepada manusia, laksanakanlah salat, dan tunaikanlah zakat.” Akan tetapi, kamu berpaling (mengingkarinya), kecuali sebagian kecil darimu, dan kamu (masih menjadi) pembangkang.",
+    "transliteration": "Wa iż akhażnā mīṡāqa banī isrā'īla lā ta‘budūna illallāha wa bil-wālidaini iḥsānaw wa żil-qurbā wal-yatāmā wal-masākīni wa qūlū lin-nāsi ḥusnaw wa aqīmuṣ-ṣalāta wa ātuz-zakāh(ta), ṡumma tawallaitum illā qalīlam minkum wa antum mu‘riḍūn(a)."
+  },
+  {
+    "id": 91,
+    "surah_id": 2,
+    "verse_id": 84,
+    "juz_id": 1,
+    "text_ar": "وَإِذۡ أَخَذۡنَا مِيثَٰقَكُمۡ لَا تَسۡفِكُونَ دِمَآءَكُمۡ وَلَا تُخۡرِجُونَ أَنفُسَكُم مِّن دِيَٰرِكُمۡ ثُمَّ أَقۡرَرۡتُمۡ وَأَنتُمۡ تَشۡهَدُونَ",
+    "text_id": "(Ingatlah) ketika Kami mengambil perjanjianmu (agar) kamu tidak menumpahkan darahmu (membunuh orang) dan mengusir dirimu (saudara sebangsamu) dari kampung halamanmu. Kemudian, kamu berikrar dan bersaksi.",
+    "transliteration": "Wa iż akhażnā mīṡāqakum lā tasfikūna dimā'akum wa lā tukhrijūna anfusakum min diyārikum ṡumma aqrartum wa antum tasyhadūn(a)."
+  },
+  {
+    "id": 92,
+    "surah_id": 2,
+    "verse_id": 85,
+    "juz_id": 1,
+    "text_ar": "ثُمَّ أَنتُمۡ هَـٰٓؤُلَآءِ تَقۡتُلُونَ أَنفُسَكُمۡ وَتُخۡرِجُونَ فَرِيقٗا مِّنكُم مِّن دِيَٰرِهِمۡ تَظَٰهَرُونَ عَلَيۡهِم بِٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِ وَإِن يَأۡتُوكُمۡ أُسَٰرَىٰ تُفَٰدُوهُمۡ وَهُوَ مُحَرَّمٌ عَلَيۡكُمۡ إِخۡرَاجُهُمۡۚ أَفَتُؤۡمِنُونَ بِبَعۡضِ ٱلۡكِتَٰبِ وَتَكۡفُرُونَ بِبَعۡضٖۚ فَمَا جَزَآءُ مَن يَفۡعَلُ ذَٰلِكَ مِنكُمۡ إِلَّا خِزۡيٞ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ يُرَدُّونَ إِلَىٰٓ أَشَدِّ ٱلۡعَذَابِۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ",
+    "text_id": "Kemudian, kamu (Bani Israil) membunuh dirimu (sesamamu) dan mengusir segolongan darimu dari kampung halamannya. Kamu saling membantu (menghadapi) mereka dalam kejahatan dan permusuhan. Jika mereka datang kepadamu sebagai tawanan, kamu tebus mereka, padahal kamu dilarang mengusir mereka. Apakah kamu beriman pada sebagian Kitab (Taurat) dan ingkar pada sebagian (yang lain)? Maka, tidak ada balasan (yang pantas) bagi orang yang berbuat demikian di antaramu, selain kenistaan dalam kehidupan dunia dan pada hari Kiamat mereka dikembalikan pada azab yang paling berat. Allah tidak lengah terhadap apa yang kamu kerjakan.",
+    "transliteration": "Ṡumma antum hā'ulā'i taqtulūna anfusakum wa tukhrijūna farīqam minkum min diyārihim taẓāharūna ‘alaihim bil-iṡmi wal-‘udwān(i), wa iy ya'tūkum usārā tufādūhum wa huwa muḥarramun ‘alaikum ikhrājuhum, afa tu'minūna biba‘ḍil-kitābi wa takfurūna bi ba‘ḍ(in), famā jazā'u may yaf‘alu żālika minkum illā khizyun fil-ḥayātid-dun-yā, wa yaumal-qiyāmati yuraddūna ilā asyaddil-‘ażāb(i), wa mallāhu bigāfilin ‘ammā ta‘malūn(a)."
+  },
+  {
+    "id": 93,
+    "surah_id": 2,
+    "verse_id": 86,
+    "juz_id": 1,
+    "text_ar": "أُوْلَـٰٓئِكَ ٱلَّذِينَ ٱشۡتَرَوُاْ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا بِٱلۡأٓخِرَةِۖ فَلَا يُخَفَّفُ عَنۡهُمُ ٱلۡعَذَابُ وَلَا هُمۡ يُنصَرُونَ",
+    "text_id": "Mereka itulah orang-orang yang membeli kehidupan dunia dengan (kehidupan) akhirat. Maka, azabnya tidak akan diringankan dan mereka tidak akan ditolong.",
+    "transliteration": "Ulā'ikal-lażīnasytarawul-ḥayātad-dun-yā bil-ākhirah(ti), falā yukhaffafu ‘anhumul-‘ażābu wa lā hum yunṣarūn(a)."
+  },
+  {
+    "id": 94,
+    "surah_id": 2,
+    "verse_id": 87,
+    "juz_id": 1,
+    "text_ar": "وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ وَقَفَّيۡنَا مِنۢ بَعۡدِهِۦ بِٱلرُّسُلِۖ وَءَاتَيۡنَا عِيسَى ٱبۡنَ مَرۡيَمَ ٱلۡبَيِّنَٰتِ وَأَيَّدۡنَٰهُ بِرُوحِ ٱلۡقُدُسِۗ أَفَكُلَّمَا جَآءَكُمۡ رَسُولُۢ بِمَا لَا تَهۡوَىٰٓ أَنفُسُكُمُ ٱسۡتَكۡبَرۡتُمۡ فَفَرِيقٗا كَذَّبۡتُمۡ وَفَرِيقٗا تَقۡتُلُونَ",
+    "text_id": "Sungguh, Kami benar-benar telah menganugerahkan Kitab (Taurat) kepada Musa dan Kami menyusulkan setelahnya rasul-rasul. Kami juga telah menganugerahkan kepada Isa, putra Maryam, bukti-bukti kebenaran, serta Kami perkuat dia dengan Ruhulkudus (Jibril). Mengapa setiap kali rasul datang kepadamu (membawa) sesuatu (pelajaran) yang tidak kamu inginkan, kamu menyombongkan diri? Lalu, sebagian(-nya) kamu dustakan dan sebagian (yang lain) kamu bunuh?",
+    "transliteration": "Wa laqad ātainā mūsal-kitāba wa qaffainā mim ba‘dihī bir-rusul(i), wa ātainā ‘īsabna maryamal-bayyināti wa ayyadnāhu birūḥil-qudus(i), afakullamā jā'akum rasūlum bimā lā tahwā anfusukumustakbartum, fafarīqan każżabtum wa farīqan taqtulūn(a)."
+  },
+  {
+    "id": 95,
+    "surah_id": 2,
+    "verse_id": 88,
+    "juz_id": 1,
+    "text_ar": "وَقَالُواْ قُلُوبُنَا غُلۡفُۢۚ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفۡرِهِمۡ فَقَلِيلٗا مَّا يُؤۡمِنُونَ",
+    "text_id": "Mereka berkata, “Hati kami tertutup.” Tidak! Allah telah melaknat mereka itu karena keingkaran mereka, tetapi sedikit sekali mereka yang beriman.",
+    "transliteration": "Wa qālū qulūbunā gulf(un), bal la‘anahumullāhu bikufrihim faqalīlam mā yu'minūn(a)."
+  },
+  {
+    "id": 96,
+    "surah_id": 2,
+    "verse_id": 89,
+    "juz_id": 1,
+    "text_ar": "وَلَمَّا جَآءَهُمۡ كِتَٰبٞ مِّنۡ عِندِ ٱللَّهِ مُصَدِّقٞ لِّمَا مَعَهُمۡ وَكَانُواْ مِن قَبۡلُ يَسۡتَفۡتِحُونَ عَلَى ٱلَّذِينَ كَفَرُواْ فَلَمَّا جَآءَهُم مَّا عَرَفُواْ كَفَرُواْ بِهِۦۚ فَلَعۡنَةُ ٱللَّهِ عَلَى ٱلۡكَٰفِرِينَ",
+    "text_id": "Setelah sampai kepada mereka Kitab (Al-Qur’an) dari Allah yang membenarkan apa yang ada pada mereka, sedangkan sebelumnya mereka memohon kemenangan atas orang-orang kafir, ternyata setelah sampai kepada mereka apa yang telah mereka ketahui itu, mereka mengingkarinya. Maka, laknat Allahlah terhadap orang-orang yang ingkar.",
+    "transliteration": "Wa lammā jā'akum kitābum min ‘indillāhi muṣaddiqul limā ma‘ahum, wa kānū min qablu yastaftiḥūna ‘alal-lażīna kafarū, falammā jā'ahum mā ‘arafū kafarū bih(ī), fala‘natullāhi ‘alal-kāfirīn(a)."
+  },
+  {
+    "id": 97,
+    "surah_id": 2,
+    "verse_id": 90,
+    "juz_id": 1,
+    "text_ar": "بِئۡسَمَا ٱشۡتَرَوۡاْ بِهِۦٓ أَنفُسَهُمۡ أَن يَكۡفُرُواْ بِمَآ أَنزَلَ ٱللَّهُ بَغۡيًا أَن يُنَزِّلَ ٱللَّهُ مِن فَضۡلِهِۦ عَلَىٰ مَن يَشَآءُ مِنۡ عِبَادِهِۦۖ فَبَآءُو بِغَضَبٍ عَلَىٰ غَضَبٖۚ وَلِلۡكَٰفِرِينَ عَذَابٞ مُّهِينٞ",
+    "text_id": "Buruk sekali (perbuatan) mereka menjual dirinya dengan mengingkari apa yang diturunkan Allah karena dengki bahwa Allah menurunkan karunia-Nya kepada siapa yang Dia kehendaki di antara hamba-hamba-Nya. Oleh karena itu, mereka menanggung kemurkaan demi kemurkaan. Kepada orang-orang kafir (ditimpakan) azab yang menghinakan.",
+    "transliteration": "Bi'samasytarau bihī anfusahum ay yakfurū bimā anzalallāhu bagyan ay yunazzilallāhu min faḍlihī ‘alā may yasyā'u min ‘ibādih(ī), fabā'ū bigaḍabin ‘alā gaḍab(in), wa lil-kāfirīna ‘ażābum muhīn(un)."
+  },
+  {
+    "id": 98,
+    "surah_id": 2,
+    "verse_id": 91,
+    "juz_id": 1,
+    "text_ar": "وَإِذَا قِيلَ لَهُمۡ ءَامِنُواْ بِمَآ أَنزَلَ ٱللَّهُ قَالُواْ نُؤۡمِنُ بِمَآ أُنزِلَ عَلَيۡنَا وَيَكۡفُرُونَ بِمَا وَرَآءَهُۥ وَهُوَ ٱلۡحَقُّ مُصَدِّقٗا لِّمَا مَعَهُمۡۗ قُلۡ فَلِمَ تَقۡتُلُونَ أَنۢبِيَآءَ ٱللَّهِ مِن قَبۡلُ إِن كُنتُم مُّؤۡمِنِينَ",
+    "text_id": "Apabila dikatakan kepada mereka, “Berimanlah pada apa yang diturunkan Allah (Al-Qur’an),” mereka menjawab, “Kami beriman pada apa yang diturunkan kepada kami.” Mereka ingkar pada apa yang setelahnya, padahal (Al-Qur’an) itu adalah kebenaran yang membenarkan apa yang ada pada mereka. Katakanlah (Nabi Muhammad), “Mengapa kamu dahulu membunuh nabi-nabi Allah jika kamu orang-orang mukmin?”",
+    "transliteration": "Wa iżā qīla lahum āminū bimā anzalallāhu qālū nu'minu bimā unzila ‘alainā wa yakfurūna bimā warā'ah(ū), wa huwal-ḥaqqu muṣaddiqal limā ma‘ahum, qul falima taqtulūna ambiyā'allāhi min qablu in kuntum mu'minīn(a)."
+  },
+  {
+    "id": 99,
+    "surah_id": 2,
+    "verse_id": 92,
+    "juz_id": 1,
+    "text_ar": "۞وَلَقَدۡ جَآءَكُم مُّوسَىٰ بِٱلۡبَيِّنَٰتِ ثُمَّ ٱتَّخَذۡتُمُ ٱلۡعِجۡلَ مِنۢ بَعۡدِهِۦ وَأَنتُمۡ ظَٰلِمُونَ",
+    "text_id": "Sungguh, Musa benar-benar telah datang kepadamu dengan bukti-bukti kebenaran. Kemudian, kamu mengambil (patung) anak sapi (sebagai sembahan) setelah (kepergian)-nya dan kamu (menjadi) orang-orang zalim.",
+    "transliteration": "Wa laqad jā'akum mūsā bil-bayyināti ṡummattakhażtumul-‘ijla mim ba‘dihī wa antum ẓālimūn(a)."
+  },
+  {
+    "id": 100,
+    "surah_id": 2,
+    "verse_id": 93,
+    "juz_id": 1,
+    "text_ar": "وَإِذۡ أَخَذۡنَا مِيثَٰقَكُمۡ وَرَفَعۡنَا فَوۡقَكُمُ ٱلطُّورَ خُذُواْ مَآ ءَاتَيۡنَٰكُم بِقُوَّةٖ وَٱسۡمَعُواْۖ قَالُواْ سَمِعۡنَا وَعَصَيۡنَا وَأُشۡرِبُواْ فِي قُلُوبِهِمُ ٱلۡعِجۡلَ بِكُفۡرِهِمۡۚ قُلۡ بِئۡسَمَا يَأۡمُرُكُم بِهِۦٓ إِيمَٰنُكُمۡ إِن كُنتُم مُّؤۡمِنِينَ",
+    "text_id": "(Ingatlah) ketika Kami mengambil janjimu dan Kami angkat gunung (Sinai) di atasmu (seraya berfirman), “Pegang teguhlah apa yang Kami berikan kepadamu dan dengarkanlah!” Mereka menjawab, “Kami mendengarkannya, tetapi kami tidak menaatinya.” Diresapkanlah ke dalam hati mereka itu (kecintaan menyembah patung) anak sapi karena kekufuran mereka. Katakanlah, “Sangat buruk apa yang diperintahkan oleh keimananmu kepadamu jika kamu orang-orang mukmin!”",
+    "transliteration": "Wa iż akhażnā mīṡāqakum wa rafa‘nā fauqakumuṭ-ṭūr(a), khużū mā ātainākum biquwwatiw wasma‘ū, qālū sami‘nā wa ‘aṣainā, wa usyribū fī qulūbihimul-‘ijla bikufrihim, qul bi'samā ya'murukum bihī īmānukum in kuntum mu'minīn(a)."
+  }
+]
