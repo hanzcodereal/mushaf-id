@@ -56,12 +56,17 @@ class DatabaseService {
         }
       }
 
-      // Load Hadiths
-      const hadithsPath = path.join(dataDir, 'hadiths.json');
-      if (fs.existsSync(hadithsPath)) {
-        const data = fs.readFileSync(hadithsPath, 'utf-8');
-        this.hadiths = JSON.parse(data);
+      // Load Hadiths (split into 5 parts)
+      let allHadiths: Hadith[] = [];
+      for (let i = 1; i <= 5; i++) {
+        const hadithPartPath = path.join(dataDir, `hadiths_part${i}.json`);
+        if (fs.existsSync(hadithPartPath)) {
+          const data = fs.readFileSync(hadithPartPath, 'utf-8');
+          const hadithsPart: Hadith[] = JSON.parse(data);
+          allHadiths = allHadiths.concat(hadithsPart);
+        }
       }
+      this.hadiths = allHadiths;
 
       console.log(`✅ Data loaded: ${this.surahs.length} surahs, ${this.hadiths.length} hadiths`);
     } catch (error) {
